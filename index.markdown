@@ -5,6 +5,7 @@
 layout: default
 cover:  true
 ---
+![Halo004]({{eonadler.github.io}}/assets/img/Vera){:width="100%"}
 
 I am a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. My research focuses on cosmological probes of fundamental physics and aims to unravel some of the biggest mysteries of modern physics: the physical nature of dark matter and dark energy. As a postdoc, I was an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton, and I got my PhD in astrophysics at Caltech. I began as an undergrad in astrophysics at the University of Belgrade, Serbia.
  
