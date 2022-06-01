@@ -11,13 +11,14 @@ title: Research
 
 <p style="margin-bottom: 35px">
 As a cosmologist, I study the entire Universe as a physical system. In particular, I combine the tools of theoretical astrophysics, particle physics, and astronomical data analysis in order to probe dark matter, dark energy, and various processes that shaped the Universe before the time of the first stars. My research often involves coming up with new ways of using observations spanning the entire cosmic history---from the cosmic microwave background radiation to populations of dwarf galaxies around the Milky Way---in order to test the fundamental fabric of nature. Below are some research highlights; a number of them are done by students under my supervision.
-
+</p>
+<p style="margin-bottom: 35px">
 I'm a member of three science collaborations focused on precision measurements of the CMB: Simons Observatory, CMB-S4 and ACTPol. I also collaborate with the LSST Dark Matter group and have co-led the Likelihood and Theory analysis group for the Simons Observatory. I have previously served on the Science Council for CMB-S4 and have led the Dark Matter working group for the collaboration.
 </p>
 
 ![Halo004]({{eonadler.github.io}}/assets/img/Research1.png){:width="100%"}
 <p style="margin-bottom: 35px">
-###<a href="https://arxiv.org/abs/1904.10000">Probing dark matter with the smallest galaxies/a>
+###<a href="https://arxiv.org/abs/1904.10000">Probing dark matter with the smallest galaxies></a>
 
 student project: Ethan Nadler (Stanford)
 
