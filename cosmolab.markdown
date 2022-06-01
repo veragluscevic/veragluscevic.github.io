@@ -22,13 +22,13 @@ I've had the pleasure to work with many very talented students and postdocs at U
 
 Current:
 
-![Halo004]({{eonadler.github.io}}/assets/img/Rui An.jpg){:width="100%"}
+![Halo004]({{eonadler.github.io}}/assets/img/RuiAn.jpg){:width="100%"}
 Rui An (postdoc): Rui works on constraining the mass and interactions of dark matter and other cosmological probes of new physics.
 Ethan Nadler (Carnegie-USC postdoc): Ethan works on state-of-the art zoom-in simulations in non-cold dark matter cosmologies, introducing inference to near-field cosmology to robustly search for signatures of new physics in local observables.
 George (Trey) Driskell (USC grad student): Trey is investigating the global 21-cm signal in context of interacting dark matter models that can change the thermal history of the universe.
 Aryan Rahimieh (USC grad student): Aryan is working on a novel way to detect interactions of axion-like particles with electrons, using 21-cm line intensity mapping. 
 Wendy Crumrine (grad student): Wendy is investigating dark matter interactions in cosmological context.
-![Halo004]({{eonadler.github.io}}/assets/img/Adam He.jpg){:width="100%"}
+![Halo004]({{eonadler.github.io}}/assets/img/AdamHe.jpg){:width="100%"}
 Adam He (USC grad student): Adam is using the effective theory of structure formation to enable calculation of non-linear evolution of cosmological perturbations in non-cold dark matter cosmologies.
 Resherle Verna (post-bacc student and former USC masters student, class of 2020; now Data Science Specialist at Southern California Edison): Resherle works on visualizations of zoom-in simulations of the Milky Way in non-cold dark matter cosmologies, co-advised by Ethan Nadler.
  
