@@ -49,14 +49,14 @@ menu:
     url:   /research.html
   - title: CV
     url:   ./CV.pdf
-#  - title: Cosmolab
-#    url:   /cosmolab.html
-#  - title: Teaching 
-#    url:   /teaching.html
-#  - title: Publications
-#    url:   /publications.html
-#  - title: Contact 
-#    url:   /contact.html
+  - title: Cosmolab
+    url:   /cosmolab.html
+  - title: Teaching 
+    url:   /teaching.html
+  - title: Publications
+    url:   /publications.html
+  - title: Contact 
+    url:   /contact.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
