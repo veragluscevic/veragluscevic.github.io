@@ -25,11 +25,13 @@ Current:
 ![RuiAn]({{veragluscevic.github.io}}/assets/img/RuiAn.jpg){:width="100%"}
 Rui An (postdoc): Rui works on constraining the mass and interactions of dark matter and other cosmological probes of new physics.
 <p>
+![Ethan]({{veragluscevic.github.io}}/assets/img/EthanNadler.jpg){:width="100%"}
 Ethan Nadler (Carnegie-USC postdoc): Ethan works on state-of-the art zoom-in simulations in non-cold dark matter cosmologies, introducing inference to near-field cosmology to robustly search for signatures of new physics in local observables.
 <p>
 George (Trey) Driskell (USC grad student): Trey is investigating the global 21-cm signal in context of interacting dark matter models that can change the thermal history of the universe.
 
 <p>
+[Aryan]({{veragluscevic.github.io}}/assets/img/AryanRahimieh.jpg){:width="100%"}
 Aryan Rahimieh (USC grad student): Aryan is working on a novel way to detect interactions of axion-like particles with electrons, using 21-cm line intensity mapping. 
 <p>
 Wendy Crumrine (grad student): Wendy is investigating dark matter interactions in cosmological context.
@@ -59,7 +61,9 @@ Katelyn Neese (Princeton undergrad, class of 2017; now Metrology Engineer at New
 </p>
 
 <p>
+
 ### Want to join our team?
+
 <p>
 
 If you are interested in collaboration, PhD, or postdoc opportunities, email me at vera.gluscevic@usc.edu. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics.
