@@ -16,9 +16,9 @@ As a cosmologist, I study the entire Universe as a physical system. In particula
 I'm a member of three science collaborations focused on precision measurements of the CMB: Simons Observatory, CMB-S4 and ACTPol. I also collaborate with the LSST Dark Matter group and have co-led the Likelihood and Theory analysis group for the Simons Observatory. I have previously served on the Science Council for CMB-S4 and have led the Dark Matter working group for the collaboration.
 </p>
 
-![Research1]({{veragluscevic.github.io}}/assets/img/Research1.png){:width="75%"}
+![Research1]({{veragluscevic.github.io}}/assets/img/Research1.png){:width="50%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1904.10000"> ###Probing dark matter with the smallest galaxies></a>
+<a href="https://arxiv.org/abs/1904.10000"> **Probing dark matter with the smallest galaxies**></a>
 
 student project: Ethan Nadler (Stanford)
 
@@ -27,7 +27,7 @@ We introduce and apply a new method to constrain dark matter interactions with b
 
 ![Research2]({{veragluscevic.github.io}}/assets/img/Research2.png){:width="75%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1806.10165Disentangling"> ###Disentangling dark physics with cosmic microwave background radiation anisotropy/a>
+<a href="https://arxiv.org/abs/1806.10165Disentangling"> **Disentangling dark physics with cosmic microwave background radiation anisotropy**></a>
 
 student project: Zack Li (Princeton)
 
@@ -36,14 +36,14 @@ We forecast sensitivity of the next-generation cosmic microwave background obser
 
 ![Research3]({{veragluscevic.github.io}}/assets/img/Research3.png){:width="75%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1712.07133"> ###First cosmological test of sub-proton-mass dark matter scattering with baryons/a>
+<a href="https://arxiv.org/abs/1712.07133"> **First cosmological test of sub-proton-mass dark matter scattering with baryons**></a>
 
 Here's the first cosmological limit on interactions of sub-proton-mass dark matter particles with baryons. The result was obtained from measurements of the cosmic microwave background anisotropy from the Planck satellite.
 </p>
 
 ![Research4]({{veragluscevic.github.io}}/assets/img/Research4.png){:width="75%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1612.07808"> ###Can annual modulation signal help identify dark matter theory?/a>
+<a href="https://arxiv.org/abs/1612.07808"> **Can annual modulation signal help identify dark matter theory?**></a>
 
 student project: Sam Witte (UCLA)
 
@@ -52,20 +52,16 @@ Dark matter direct detection experiments are currently collecting data, in hopes
 
 ![Research5]({{veragluscevic.github.io}}/assets/img/){:width="75%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1604.06327"> ###Measuring primordial magnetic fields with 21-cm tomography/a>
+<a href="https://arxiv.org/abs/1604.06327"> **Measuring primordial magnetic fields with 21-cm tomography**></a>
 
 A proposal for a cool new way to trace tiny magnetic fields in the intergalactic medium during Dark Ages, using future tomographic measurements of the cosmological 21-cm signal from atomic hydrogen. With a 21-cm experiment consisting of 1 square km of dipole antennas, B fields as small as 10^-21 Gauss and coherent over megaparces scales could be within reach.
 </p>
 
 ![Research6]({{veragluscevic.github.io}}/assets/img/Research6.png){:width="75%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/2010.02936"> ### Searching for dark matter-proton interactions/a>
+<a href="https://arxiv.org/abs/2010.02936"> **Searching for dark matter-proton interactions**></a>
 
 student project: Karime Maamari (USC)
 
 We compute new bounds on the rate of dark matter-proton scattering at a time when the Universe was ~2 months old. The results are entirely based on linear cosmological perturbation theory and constrain dark matter interaction physics for a broad range of dark matter models. They improve upon previous astrophysical bounds on the scattering cross section by 5 orders of magnitude.
 </p>
-
-
-![universe]({{veragluscevic.github.io}}/dm.png){:width="19.5%"}
-

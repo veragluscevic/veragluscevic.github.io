@@ -11,18 +11,18 @@ title: Contact
 
 <p style="margin-bottom: 35px">
 Ahmanson Center (ACB),  
-
+<p>
 825 Bloom Walk, Los Angeles, CA 90089  
-
+<p>
 office 526  
-
+<p>
 
 (213)740-0897  
 
-
+<p>
 vera.gluscevic@usc.edu  
 
 </p>
 
-![logo]({{veragluscevic.github.io}}/USC.png){:width="100%"}
+![USC]({{veragluscevic.github.io}}/assets/img/USC.png){:width="100%"}
 
