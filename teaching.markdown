@@ -11,7 +11,9 @@ title: Teaching
 
 <p style="margin-bottom: 35px">
 Cosmology ASTR 424 (spring 2020): upper-division undergraduate course on cosmology.
+<p>
 CosmoLab Hacks (2019-Present): weekly data analysis tutorials for USC grads/undergrads.
+<p>
 ASTR 100 (spring 2020, fall 2021): general-education course, introduction to the Universe.
 </p>
 

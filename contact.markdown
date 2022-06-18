@@ -7,10 +7,8 @@ cover:  true
 title: Contact
 ---
 
-### Cosmological probes of new physics
-
 <p style="margin-bottom: 35px">
-Ahmanson Center (ACB),  
+Ahmanson Center (ACB)
 <p>
 825 Bloom Walk, Los Angeles, CA 90089  
 <p>

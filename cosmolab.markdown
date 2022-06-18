@@ -70,7 +70,9 @@ Katelyn Neese (Princeton undergrad, class of 2017; now Metrology Engineer at New
 
 <p>
 
+<div align="center">
 **Want to join our team?**
+<div>
 
 <p>
 
