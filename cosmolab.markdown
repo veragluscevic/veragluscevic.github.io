@@ -11,7 +11,7 @@ title: Cosmolab
 <p style="margin-bottom: 35px">
 ###Meet the Group
 <p style="margin-bottom: 35px">
-Check out USC Astrophysics and Cosmology and CosmoLab hack space!
+Check out <a href="cosmolab.usc.edu">USC Astrophysics ></a> and Cosmology and <a href="https://github.com/usc-cosmolab/hackspace" CosmoLab hack space! ></a> 
 <p>
 Together with students and postdoc at USC, I have started CosmoLab, now running as a weekly meeting for all USC grads, undergrads, postdocs, and researchers interested in astrophysics research. Get in touch if you'd like to join!
 
