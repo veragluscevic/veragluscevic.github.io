@@ -54,7 +54,7 @@ student project: Sam Witte (UCLA)
 Dark matter direct detection experiments are currently collecting data, in hopes of discovering signal from dark matter particles. In this work, we discuss how Earth's motion around the Sun and the resulting annual modulation of a putative dark-matter signal may be used to distinguish amongst candidate theories that could describe these elusive particles. Check out our dmdd python package.
 </p>
 
-![Research5]({{veragluscevic.github.io}}/assets/img/research5){:width="50%"}
+![Research5]({{veragluscevic.github.io}}/assets/img/research5.png){:width="50%"}
 
 <p style="margin-bottom: 35px">
 <a href="https://arxiv.org/abs/1604.06327"> Measuring primordial magnetic fields with 21-cm tomography</a>
