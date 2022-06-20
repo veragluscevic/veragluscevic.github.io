@@ -6,10 +6,10 @@ layout: default
 cover:  true
 title: Cosmolab
 ---
-![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="200"}
+![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
 
 <p style="margin-bottom: 35px">
-###Meet the Group**
+###Meet the Group
 <p style="margin-bottom: 35px">
 Check out USC Astrophysics and Cosmology and CosmoLab hack space!
 <p>
