@@ -7,9 +7,8 @@ cover:  true
 title: Teaching
 ---
 
-### Cosmological probes of new physics
+### Courses Taught:
 
-<p style="margin-bottom: 35px">
 Cosmology ASTR 424 (spring 2020): upper-division undergraduate course on cosmology.
 <p>
 CosmoLab Hacks (2019-Present): weekly data analysis tutorials for USC grads/undergrads.

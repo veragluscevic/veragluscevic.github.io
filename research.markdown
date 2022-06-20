@@ -7,8 +7,6 @@ cover:  true
 title: Research
 ---
 
-### Cosmological probes of new physics
-
 <p style="margin-bottom: 35px">
 As a cosmologist, I study the entire Universe as a physical system. In particular, I combine the tools of theoretical astrophysics, particle physics, and astronomical data analysis in order to probe dark matter, dark energy, and various processes that shaped the Universe before the time of the first stars. My research often involves coming up with new ways of using observations spanning the entire cosmic history---from the cosmic microwave background radiation to populations of dwarf galaxies around the Milky Way---in order to test the fundamental fabric of nature. Below are some research highlights; a number of them are done by students under my supervision.
 </p>
@@ -18,48 +16,48 @@ I'm a member of three science collaborations focused on precision measurements o
 
 ![Research1]({{veragluscevic.github.io}}/assets/img/Research1.png){:width="50%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1904.10000"> **Probing dark matter with the smallest galaxies**></a>
+<a href="https://arxiv.org/abs/1904.10000"> **Probing dark matter with the smallest galaxies></a>**
 
 student project: Ethan Nadler (Stanford)
 
 We introduce and apply a new method to constrain dark matter interactions with baryonic particles in the early universe, using a population of satellite galaxies around the Milky Way. We limit dark matter interactions to be 1000 times weaker than previous studies allowed. This work was highlighted in AAS Nova.
 </p>
 
-![Research2]({{veragluscevic.github.io}}/assets/img/Research2.png){:width="75%"}
+![Research2]({{veragluscevic.github.io}}/assets/img/Research2.png){:width="50%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1806.10165Disentangling"> **Disentangling dark physics with cosmic microwave background radiation anisotropy**></a>
+<a href="https://arxiv.org/abs/1806.10165Disentangling"> **Disentangling dark physics with cosmic microwave background radiation anisotropy></a>**
 
 student project: Zack Li (Princeton)
 
 We forecast sensitivity of the next-generation cosmic microwave background observations to dark matter physics, and show how to disentangle it from other physical effects. These forecasts fed into the Simons Observatory and CMB-S4 calculations of sensitivity to dark matter.
 </p>
 
-![Research3]({{veragluscevic.github.io}}/assets/img/Research3.png){:width="75%"}
+![Research3]({{veragluscevic.github.io}}/assets/img/Research3.png){:width="50%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1712.07133"> **First cosmological test of sub-proton-mass dark matter scattering with baryons**></a>
+<a href="https://arxiv.org/abs/1712.07133"> **First cosmological test of sub-proton-mass dark matter scattering with baryons></a>**
 
 Here's the first cosmological limit on interactions of sub-proton-mass dark matter particles with baryons. The result was obtained from measurements of the cosmic microwave background anisotropy from the Planck satellite.
 </p>
 
-![Research4]({{veragluscevic.github.io}}/assets/img/Research4.png){:width="75%"}
+![Research4]({{veragluscevic.github.io}}/assets/img/Research4.png){:width="50%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1612.07808"> **Can annual modulation signal help identify dark matter theory?**></a>
+<a href="https://arxiv.org/abs/1612.07808"> **Can annual modulation signal help identify dark matter theory?></a>**
 
 student project: Sam Witte (UCLA)
 
 Dark matter direct detection experiments are currently collecting data, in hopes of discovering signal from dark matter particles. In this work, we discuss how Earth's motion around the Sun and the resulting annual modulation of a putative dark-matter signal may be used to distinguish amongst candidate theories that could describe these elusive particles. Check out our dmdd python package.
 </p>
 
-![Research5]({{veragluscevic.github.io}}/assets/img/){:width="75%"}
+![Research5]({{veragluscevic.github.io}}/assets/img/){:width="50%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1604.06327"> **Measuring primordial magnetic fields with 21-cm tomography**></a>
+<a href="https://arxiv.org/abs/1604.06327"> **Measuring primordial magnetic fields with 21-cm tomography></a>**
 
 A proposal for a cool new way to trace tiny magnetic fields in the intergalactic medium during Dark Ages, using future tomographic measurements of the cosmological 21-cm signal from atomic hydrogen. With a 21-cm experiment consisting of 1 square km of dipole antennas, B fields as small as 10^-21 Gauss and coherent over megaparces scales could be within reach.
 </p>
 
-![Research6]({{veragluscevic.github.io}}/assets/img/Research6.png){:width="75%"}
+![Research6]({{veragluscevic.github.io}}/assets/img/Research6.png){:width="50%"}
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/2010.02936"> **Searching for dark matter-proton interactions**></a>
+<a href="https://arxiv.org/abs/2010.02936"> **Searching for dark matter-proton interactions></a>**
 
 student project: Karime Maamari (USC)
 

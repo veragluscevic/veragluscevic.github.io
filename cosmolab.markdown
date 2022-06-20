@@ -7,8 +7,6 @@ cover:  true
 title: Cosmolab
 ---
 
-### Cosmological probes of new physics
-
 <p style="margin-bottom: 35px">
 Meet the Group
 <p style="margin-bottom: 35px">

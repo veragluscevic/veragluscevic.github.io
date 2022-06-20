@@ -14,4 +14,4 @@ I am a Gabilan Assistant Professor of Physics and Astronomy at the University of
 
 Check out my [CV](./CV.pdf) for more information.
 <p>
-email me at **vera.gluscevic@usc.edu**
+email me at vera.gluscevic@usc.edu
