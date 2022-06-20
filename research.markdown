@@ -18,7 +18,7 @@ I'm a member of three science collaborations focused on precision measurements o
 ![Research1]({{veragluscevic.github.io}}/assets/img/Research1.png){:width="50%"}
 
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1904.10000"> Probing dark matter with the smallest galaxies></a>
+<a href="https://arxiv.org/abs/1904.10000"> Probing dark matter with the smallest galaxies</a>
 
 student project: Ethan Nadler (Stanford)
 
@@ -28,7 +28,7 @@ We introduce and apply a new method to constrain dark matter interactions with b
 ![Research2]({{veragluscevic.github.io}}/assets/img/Research2.png){:width="50%"}
 
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1806.10165"> Disentangling dark physics with cosmic microwave background radiation anisotropy></a>
+<a href="https://arxiv.org/abs/1806.10165"> Disentangling dark physics with cosmic microwave background radiation anisotropy</a>
 
 student project: Zack Li (Princeton)
 
@@ -39,7 +39,7 @@ We forecast sensitivity of the next-generation cosmic microwave background obser
 ![Research3]({{veragluscevic.github.io}}/assets/img/Research3.png){:width="50%"}
 
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1712.07133"> First cosmological test of sub-proton-mass dark matter scattering with baryons></a>
+<a href="https://arxiv.org/abs/1712.07133"> First cosmological test of sub-proton-mass dark matter scattering with baryons</a>
 
 Here's the first cosmological limit on interactions of sub-proton-mass dark matter particles with baryons. The result was obtained from measurements of the cosmic microwave background anisotropy from the Planck satellite.
 </p>
@@ -47,7 +47,7 @@ Here's the first cosmological limit on interactions of sub-proton-mass dark matt
 ![Research4]({{veragluscevic.github.io}}/assets/img/Research4.png){:width="50%"}
 
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1612.07808"> Can annual modulation signal help identify dark matter theory?></a>
+<a href="https://arxiv.org/abs/1612.07808"> Can annual modulation signal help identify dark matter theory?</a>
 
 student project: Sam Witte (UCLA)
 
@@ -57,7 +57,7 @@ Dark matter direct detection experiments are currently collecting data, in hopes
 ![Research5]({{veragluscevic.github.io}}/assets/img/research5){:width="50%"}
 
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/1604.06327"> Measuring primordial magnetic fields with 21-cm tomography></a>
+<a href="https://arxiv.org/abs/1604.06327"> Measuring primordial magnetic fields with 21-cm tomography</a>
 
 A proposal for a cool new way to trace tiny magnetic fields in the intergalactic medium during Dark Ages, using future tomographic measurements of the cosmological 21-cm signal from atomic hydrogen. With a 21-cm experiment consisting of 1 square km of dipole antennas, B fields as small as 10^-21 Gauss and coherent over megaparces scales could be within reach.
 </p>
@@ -65,7 +65,7 @@ A proposal for a cool new way to trace tiny magnetic fields in the intergalactic
 ![Research6]({{veragluscevic.github.io}}/assets/img/Research6.png){:width="50%"}
 
 <p style="margin-bottom: 35px">
-<a href="https://arxiv.org/abs/2010.02936"> Searching for dark matter-proton interactions></a>
+<a href="https://arxiv.org/abs/2010.02936"> Searching for dark matter-proton interactions</a>
 
 student project: Karime Maamari (USC)
 

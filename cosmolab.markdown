@@ -9,9 +9,9 @@ title: Cosmolab
 ![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
 
 <p style="margin-bottom: 35px">
-###Meet the Group
+### Meet the Group
 <p style="margin-bottom: 35px">
-Check out <a href="cosmolab.usc.edu">USC Astrophysics ></a> and Cosmology and <a href="https://github.com/usc-cosmolab/hackspace" CosmoLab hack space! ></a> 
+Check out <a href="cosmolab.usc.edu"> USC Astrophysics</a> and Cosmology and <a href="https://github.com/usc-cosmolab/hackspace"> CosmoLab hack space!</a> 
 <p>
 Together with students and postdoc at USC, I have started CosmoLab, now running as a weekly meeting for all USC grads, undergrads, postdocs, and researchers interested in astrophysics research. Get in touch if you'd like to join!
 
@@ -31,7 +31,7 @@ Rui An (postdoc 2021-present): Rui works on constraining the mass and interactio
 ![Ethan]({{veragluscevic.github.io}}/assets/img/EthanNadler.jpg){:width="65%"} 
 
 <p>
-<a href="https://eonadler.github.io/"> Ethan O. Nadler ></a> (Carnegie-USC postdoc 2021-present): Ethan works on state-of-the art zoom-in simulations in non-cold dark matter cosmologies, introducing inference to near-field cosmology to robustly search for signatures of new physics in local observables.
+<a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc 2021-present): Ethan works on state-of-the art zoom-in simulations in non-cold dark matter cosmologies, introducing inference to near-field cosmology to robustly search for signatures of new physics in local observables.
 <p>
 
 George (Trey) Driskell (USC grad student): Trey is investigating the global 21-cm signal in context of interacting dark matter models that can change the thermal history of the universe.
@@ -41,7 +41,7 @@ George (Trey) Driskell (USC grad student): Trey is investigating the global 21-c
 ![Aryan]({{veragluscevic.github.io}}/assets/img/AryanRahimieh.jpg){:width="65%"}
 
 <p>
-<a href="https://www.linkedin.com/in/aryan-rahimieh/"> Aryan Rahimieh ></a> (USC PhD student 2019-present): Aryan is working on a novel way to detect interactions of axion-like particles with electrons, using 21-cm line intensity mapping. As his second project, he is working on the Fisher forecasting of global 21-cm signal to put constraints on astrophysical parameters as well as model dependent DM mass and cross section. 
+<a href="https://www.linkedin.com/in/aryan-rahimieh/"> Aryan Rahimieh </a> (USC PhD student 2019-present): Aryan is working on a novel way to detect interactions of axion-like particles with electrons, using 21-cm line intensity mapping. As his second project, he is working on the Fisher forecasting of global 21-cm signal to put constraints on astrophysical parameters as well as model dependent DM mass and cross section. 
 <p>
 Wendy Crumrine (grad student): Wendy is investigating dark matter interactions in cosmological context.
 <p>
