@@ -19,6 +19,7 @@ I'm a member of three science collaborations focused on precision measurements o
 <p style="margin-bottom: 35px">
 student project: Ethan Nadler (Stanford)
 
+  
 We introduce and apply a new method to constrain dark matter interactions with baryonic particles in the early universe, using a population of satellite galaxies around the Milky Way.
 
 <p align="center">
@@ -34,6 +35,7 @@ We introduce and apply a new method to constrain dark matter interactions with b
 <p style="margin-bottom: 35px">
 student project: Zack Li (Princeton)
 
+  
 We forecast sensitivity of the next-generation cosmic microwave background observations to dark matter physics, and show how to disentangle it from other physical effects. 
 
 <p align="center">
