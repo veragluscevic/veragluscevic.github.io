@@ -6,7 +6,8 @@ layout: default
 cover:  true
 title: Vera Gluscevic
 ---
-![Vera]({{veragluscevic.github.io}}/assets/img/Vera.jpg){:width="65%"}
+<img align="left" src="{{veragluscevic.github.io}}/assets/img/Vera.jpg" alt="Vera" width="65%">
+
 
 I am a Gabilan Assistant Professor of Physics and Astronomy at the <a href="https://dornsife.usc.edu/physics/"> University of Southern California </a>. My research focuses on cosmological probes of fundamental physics and aims to unravel some of the biggest mysteries of modern physics: the physical nature of dark matter and dark energy. As a postdoc, I was an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton, and I got my PhD in astrophysics at Caltech. I began as an undergrad in astrophysics at the University of Belgrade, Serbia.
  
@@ -14,3 +15,4 @@ I am a Gabilan Assistant Professor of Physics and Astronomy at the <a href="http
 Check out my [CV](./CV.pdf) for more information.
 <p>
 email me at vera.gluscevic@usc.edu
+           VHomepage = index.markdown
