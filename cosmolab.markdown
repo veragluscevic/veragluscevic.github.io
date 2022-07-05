@@ -69,15 +69,13 @@ CLASS.
 Katelyn Neese (Princeton undergrad, class of 2017; now Metrology Engineer at Newport News Shipbuilding): Katelyn has looked at how annual modulation signal in dark matter direct detection experiments can be used to distinguish dark matter models.
 </p>
 
-<p>
 
 <div align="center">
     <i>Want to join our team?</i>
 <div>
 
 
-If you are interested in collaboration, PhD, or postdoc opportunities, email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. test
-</p>
+If you are interested in collaboration, PhD, or postdoc opportunities, email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. 
 
 
 
