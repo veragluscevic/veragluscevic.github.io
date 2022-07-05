@@ -14,5 +14,5 @@ Office 526
 
 vera.gluscevic@usc.edu  
 
-![USC]({{veragluscevic.github.io}}/assets/img/USC.jpg){:width="80%"}
+![USC]({{veragluscevic.github.io}}/assets/img/USC.png){:width="80%"}
 
