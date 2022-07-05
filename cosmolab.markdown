@@ -7,9 +7,8 @@ cover:  true
 title: Cosmolab
 ---
 ![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
-### Meet the Group 
-<p style="margin-bottom: 35px">
-<p style="margin-bottom: 35px">
+### Meet the Group ###
+
 Check out <a href="cosmolab.usc.edu"> USC Astrophysics</a> and Cosmology and <a href="https://github.com/usc-cosmolab/hackspace"> CosmoLab hack space!</a> 
 <p>
 Together with students and postdoc at USC, I have started CosmoLab, now running as a weekly meeting for all USC grads, undergrads, postdocs, and researchers interested in astrophysics research. Get in touch if you'd like to join!
