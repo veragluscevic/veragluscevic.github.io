@@ -18,7 +18,7 @@ Together with students and postdoc at USC, I have started CosmoLab, now running 
 I've had the pleasure to work with many very talented students and postdocs at USC and beyond.
 <p>
 
-__ Current: __
+### Current: ###
 
 <p>
 
@@ -27,7 +27,8 @@ __ Current: __
 Rui An (postdoc 2021-present): Rui works on constraining the mass and interactions of dark matter and other cosmological probes of new physics.
 
 <p>
-![Ethan]({{veragluscevic.github.io}}/assets/img/EthanNadler.jpg){:width="65%"} 
+
+![Ethan Nadler]({{veragluscevic.github.io}}/assets/img/EthanNadler.jpg){:width="65%"} 
 
 <p>
 <a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc 2021-present): Ethan works on state-of-the art zoom-in simulations in non-cold dark matter cosmologies, introducing inference to near-field cosmology to robustly search for signatures of new physics in local observables.
@@ -52,7 +53,8 @@ Adam He (USC PhD student 2020-present): Adam is using the effective theory of st
 <p>
 Resherle Verna (post-bacc student and former USC masters student, class of 2020; now Data Science Specialist at Southern California Edison): Resherle works on visualizations of zoom-in simulations of the Milky Way in non-cold dark matter cosmologies, co-advised by Ethan Nadler.
  <p>
-__Former:__
+
+### Former: ###
 <p>
 Karime Maamari (USC undergrad, class of 2020; now Research Assistant at Argonne): Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES.
 <p>
@@ -74,12 +76,12 @@ Katelyn Neese (Princeton undergrad, class of 2017; now Metrology Engineer at New
 <p>
 
 <div align="center">
-__Want to join our team?__
+    <i>Want to join our team?</i>
 <div>
 
 <p>
 
-If you are interested in collaboration, PhD, or postdoc opportunities, email me at _vera.gluscevic@usc.edu. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics.
+If you are interested in collaboration, PhD, or postdoc opportunities, email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics.
 </p>
 
 
