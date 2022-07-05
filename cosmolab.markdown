@@ -7,6 +7,7 @@ cover:  true
 title: Cosmolab
 ---
 ![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
+
 ### Meet the Group ###
 
 Check out <a href="cosmolab.usc.edu"> USC Astrophysics</a> and Cosmology and <a href="https://github.com/usc-cosmolab/hackspace"> CosmoLab hack space!</a> 
@@ -75,7 +76,7 @@ Katelyn Neese (Princeton undergrad, class of 2017; now Metrology Engineer at New
 <div>
 
 
-If you are interested in collaboration, PhD, or postdoc opportunities, email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics.
+If you are interested in collaboration, PhD, or postdoc opportunities, email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. test
 </p>
 
 
