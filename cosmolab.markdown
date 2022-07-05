@@ -35,7 +35,7 @@ George (Trey) Driskell (USC grad student): Trey is investigating the global 21-c
 
 Wendy Crumrine (grad student): Wendy is investigating dark matter interactions in cosmological context.
 
-![AdamHe]({{veragluscevic.github.io}}/assets/img/AdameHe.jpg){:width="65%"}
+![AdamHe]({{veragluscevic.github.io}}/assets/img/AdamHe.jpg){:width="65%"}
 
 Adam He (USC PhD student 2020-present): Adam is using the effective theory of structure formation to enable calculation of non-linear evolution of cosmological perturbations in non-cold dark matter cosmologies.
 
