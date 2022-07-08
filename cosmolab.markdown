@@ -27,13 +27,16 @@ Rui An (postdoc 2021-present): Rui works on constraining the mass and interactio
 
 <a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc 2021-present): Ethan works on state-of-the art zoom-in simulations in non-cold dark matter cosmologies, introducing inference to near-field cosmology to robustly search for signatures of new physics in local observables.
 
-George (Trey) Driskell (USC grad student): Trey is investigating the global 21-cm signal in context of interacting dark matter models that can change the thermal history of the universe.
+
+![Trey]({{veragluscevic.github.io}}/assets/img/GeorgeDriskell.jpg){:width="65%"}
+Trey Driskell (USC PhD student 2030-present): Trey is investigating the global 21-cm signal in context of interacting dark matter models that can change the thermal history of the universe.
 
 ![Aryan]({{veragluscevic.github.io}}/assets/img/AryanRahimieh.jpg){:width="65%"}
 
 <a href="https://www.linkedin.com/in/aryan-rahimieh/"> Aryan Rahimieh </a> (USC PhD student 2019-present): Aryan is working on a novel way to detect interactions of axion-like particles with electrons, using 21-cm line intensity mapping. As his second project, he is working on the Fisher forecasting of global 21-cm signal to put constraints on astrophysical parameters as well as model dependent DM mass and cross section. 
 
-Wendy Crumrine (grad student): Wendy is investigating dark matter interactions in cosmological context.
+![Wendy]({{veragluscevic.github.io}}/assets/img/WendyCrumrine.jpg){:width="65%"}
+<a href="https://brightinsightslearning.com/about-me/"> Wendy Crumrine </a> (USC PhD student 2021-present): Wendy is using Milky Way satellite abundance measurements to derive constraints on non-cold dark matter cosmological models; in particular, models in which dark mater interacts with neutrinos or photons. 
 
 ![AdamHe]({{veragluscevic.github.io}}/assets/img/AdamHe.jpg){:width="65%"}
 
@@ -71,7 +74,7 @@ Katelyn Neese (Princeton undergrad, class of 2017; now Metrology Engineer at New
 
 
 <div align="center">
-    <i>Want to join our team?</i>
+   ###  <i>Want to join our team?</i> ### 
 <div>
 
 
