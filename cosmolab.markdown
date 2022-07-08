@@ -44,10 +44,12 @@ Trey Driskell (USC PhD student 2030-present): Trey is investigating the global 2
 
 Adam He (USC PhD student 2020-present): Adam is using the effective theory of structure formation to enable calculation of non-linear evolution of cosmological perturbations in non-cold dark matter cosmologies.
 
-Resherle Verna (post-bacc student and former USC masters student, class of 2020; now Data Science Specialist at Southern California Edison): Resherle works on visualizations of zoom-in simulations of the Milky Way in non-cold dark matter cosmologies, co-advised by Ethan Nadler.
-
 ### Former: ###
 <p>
+
+<a href="https://www.linkedin.com/in/resherle-verna-m-s-96945898//"> Resherle Verna (post-bacc student and former USC masters student, class of 2020; former Data Science Specialist at Southern California Edison; now PhD student at UT Austin ): Resherle works on visualizations of zoom-in simulations of the Milky Way in non-cold dark matter cosmologies, co-advised by Ethan Nadler.
+
+
 Karime Maamari (USC undergrad, class of 2020; now Research Assistant at Argonne): Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES.
 </p>
 
@@ -76,7 +78,7 @@ Katelyn Neese (Princeton undergrad, class of 2017; now Metrology Engineer at New
 
 
 <div align="center">
- <b> <i>Want to join our team?</i> <b>
+ <b><i>Want to join our team?</i><b>
 <div>
 
 
