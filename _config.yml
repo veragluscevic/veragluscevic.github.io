@@ -49,10 +49,10 @@ menu:
     url:   /research.html
   - title: CV
     url:   ./CV.pdf
-  - title: Gluscevic Group
-    url:   /gluscevicgroup.html
-  - title: Cosmolab
-    url:   /cosmolab.html
+  - title: bad
+    url:   /BAD.html
+  - title: Gluscevic
+    url:   /gluscevic.html
   - title: Teaching 
     url:   /teaching.html
   - title: Resources

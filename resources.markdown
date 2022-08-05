@@ -4,8 +4,9 @@
 
 layout: default
 cover:  true
-title: Teaching
+title: Resources
 ---
 
 ![Banner]({{veragluscevic.github.io}}/assets/img/Banner.png){:width="1000" Heigth="200"}
 
+UNDER CONSTURCTION! CHECK BACK SOON.
