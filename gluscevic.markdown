@@ -8,12 +8,12 @@ title: Gluscevic Group
 ---
 ![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
 
-At this time I am not accepting new students, highschool interns, or summer researchers. If you are a USC undergraduate student interested the work we do email me at <b>vera.gluscevic@usc.edu</b>. If you are looking for a posdoc postion email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. 
+At this time I am not accepting new students, high school interns, or summer researchers. If you are a USC undergraduate student interested the work we do email me at <b>vera.gluscevic@usc.edu</b>. If you are looking for a posdoc postion email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. 
 
 
-I've had the pleasure to work with many very talented students and postdocs at USC and beyond.
 
-### Current: ###
+
+### Current Members: ###
 
 
 ![RuiAn]({{veragluscevic.github.io}}/assets/img/RuiAn.jpg){:width="45%"}
