@@ -8,11 +8,8 @@ title: Gluscevic Group
 ---
 ![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
 
-### Meet the Group ###
+At this time I am not accepting new students, highschool interns, or summer researchers. If you are a USC undergraduate student interested the work we do email me at <b>vera.gluscevic@usc.edu</b>. If you are looking for a posdoc postion email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. 
 
-Check out <a href="cosmolab.usc.edu"> USC Astrophysics</a> and Cosmology and <a href="https://github.com/usc-cosmolab/hackspace"> CosmoLab hack space!</a> 
-
-Together with students and postdoc at USC, I have started CosmoLab, now running as a weekly meeting for all USC grads, undergrads, postdocs, and researchers interested in astrophysics research. Get in touch if you'd like to join!
 
 I've had the pleasure to work with many very talented students and postdocs at USC and beyond.
 
@@ -82,7 +79,6 @@ Katelyn Neese (Princeton undergrad, class of 2017; now Metrology Engineer at New
 <div>
 
 
-If you are interested in collaboration, PhD, or postdoc opportunities, email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. 
 
 
 
