@@ -55,8 +55,8 @@ menu:
     url:   /cosmolab.html
   - title: Teaching 
     url:   /teaching.html
-  #- title: Publications
-   # url:   /publications.html
+  - title: Resources
+    url:   /resources.html
   - title: Contact 
     url:   /contact.html
 

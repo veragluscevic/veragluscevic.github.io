@@ -4,7 +4,7 @@
 
 layout: default
 cover:  true
-title: Cosmolab
+title: Gluscevic Group
 ---
 ![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
 
