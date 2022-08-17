@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -51,7 +52,7 @@ menu:
     url:   ./CV.pdf
   - title: Gluscevic Group
     url:   /gluscevic.html
-  - title: CosmoLab
+  - title: Cosmolab
     url:   /cosmolab.html
   - title: Teaching 
     url:   /teaching.html
