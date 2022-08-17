@@ -18,7 +18,7 @@ We also have CosmoLab Hacks (Fridays), we hack together virtually. Check out <a 
 
 In USC Cosmology Seminar (Fridays), we host formal 1-hour talks by internal and external speakers. 
 
-If you'd like to join any of our meetings.are USC students, postdocs, staff, and faculty doing research in astrophysics and cosmology email me at <b>vera.gluscevic@usc.edu</b>. 
+If you'd like to join any of our meetings.are USC students, postdocs, staff, and faculty doing research in astrophysics and cosmology email me at <b>vera.gluscevic@usc.edu</b>.
 
 
 
