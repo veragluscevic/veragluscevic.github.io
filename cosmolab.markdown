@@ -8,7 +8,7 @@ title: CosmoLab
 ---
 ![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
 
-### USC Astrophysics and Cosmology###
+### USC Astrophysics and Cosmology ###
 
 Cosmolab is a group of USC students, postdocs, staff, and faculty doing research in astrophysics and cosmology. We have a weekly meeting for all USC grads, undergrads, postdocs, and researchers interested in astrophysics research. Get in touch if you'd like to join! Check it out <a href="cosmolab.usc.edu"> USC Astrophysics</a> and Cosmology
 
