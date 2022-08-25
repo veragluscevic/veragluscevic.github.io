@@ -11,6 +11,9 @@ title: Teaching
 
 ### Courses Taught:
 
+![trails]({{veragluscevic.github.io}}/assets/img/trails.jpg){:width="50%"}
+ASTR 540 (Spring 2022): Advanced Cosmology
+
 ![Galaxy]({{veragluscevic.github.io}}/assets/img/Galaxy.png){:width="50%"}
 
 Cosmology ASTR 424 (spring 2020): upper-division undergraduate course on cosmology.

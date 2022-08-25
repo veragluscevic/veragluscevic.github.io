@@ -14,6 +14,16 @@ As a cosmologist, I study the entire Universe as a physical system. In particula
 I'm a member of three science collaborations focused on precision measurements of the CMB: Simons Observatory, CMB-S4 and ACTPol. I also collaborate with the LSST Dark Matter group and have co-led the Likelihood and Theory analysis group for the Simons Observatory. I have previously served on the Science Council for CMB-S4 and have led the Dark Matter working group for the collaboration.
 </p>
 
+<b>Prospective Graduate Students:
+
+If you are interested in applying to USC please take a look at the <a href=" https://dornsife.usc.edu/physics/graduate-admissions/" departmental web page </a> for application instructions and deadlines.
+
+
+<b>Prospective Post Docs
+
+Please contact me directly if you are interested in a postdoc position.
+<p>
+
 ### [Probing dark matter with the smallest galaxies]("https://arxiv.org/abs/1904.10000") ###
 
 <p style="margin-bottom: 35px">

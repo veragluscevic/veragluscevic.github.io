@@ -8,7 +8,7 @@ title: Gluscevic Group
 ---
 ![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
 
-At this time I am not accepting new students, high school interns, or summer researchers. If you are a USC undergraduate student interested the work we do email me at <b>vera.gluscevic@usc.edu</b>. If you are looking for a posdoc postion email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. 
+If you are a USC undergraduate student interested the work we do email me at <b>vera.gluscevic@usc.edu</b>. If you are looking for a posdoc postion email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. At this time I am not accepting high school students.
 
 
 
@@ -41,14 +41,15 @@ Trey Driskell (USC PhD student 2030-present): Trey is investigating the global 2
 
 Adam He (USC PhD student 2020-present): Adam is using the effective theory of structure formation to enable calculation of non-linear evolution of cosmological perturbations in non-cold dark matter cosmologies.
 
+Karime Maamari (USC PhD Student 2022-present):
+
 ### Former: ###
 <p>
 
 <a href="https://www.linkedin.com/in/resherle-verna-m-s-96945898//"> Resherle Verna </a> (post-bacc student and former USC masters student, class of 2020; former Data Science Specialist at Southern California Edison; now PhD student at UT Austin ): Resherle works on visualizations of zoom-in simulations of the Milky Way in non-cold dark matter cosmologies, co-advised by Ethan Nadler.
-</p>
+<p>
 
-Karime Maamari (USC undergrad, class of 2020; now Research Assistant at Argonne): Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES.
-</p>
+Karime Maamari (USC undergrad, class of 2020; now Graduate Student at USC): Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES.
 
 <p>
 Dimple Sarnaaik (USC undergrad, class of 2021): Dimple had worked on performing analytic estimates for the bound on dark matter-electron scattering from CMB anisotropy measurements.
