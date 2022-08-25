@@ -24,7 +24,7 @@ If you are interested in applying to USC please take a look at the <a href="http
 Please contact me directly if you are interested in a postdoc position.
 <p>
 
-<b><a href="https://arxiv.org/abs/1904.10000"> Probing dark matter with the smallest galaxies<\b> </a> 
+<b><a href="https://arxiv.org/abs/1904.10000"> Probing dark matter with the smallest galaxies </b> </a> 
 
 <p style="margin-bottom: 35px">
 student project: Ethan Nadler (Stanford)
@@ -40,7 +40,7 @@ We introduce and apply a new method to constrain dark matter interactions with b
 </p>
 
 
-<b><a href="https://arxiv.org/abs/1806.10165"> Disentangling dark physics with cosmic microwave background radiation anisotropy<\b> a>
+<b><a href="https://arxiv.org/abs/1806.10165"> Disentangling dark physics with cosmic microwave background radiation anisotropy </b> a>
 
 <p style="margin-bottom: 35px">
 student project: Zack Li (Princeton)
@@ -56,7 +56,7 @@ These forecasts fed into the Simons Observatory and CMB-S4 calculations of sensi
 </p>
 
 
-<b><a href="https://arxiv.org/abs/1712.07133"> First cosmological test of sub-proton-mass dark matter scattering with baryons<\b> a>
+<b><a href="https://arxiv.org/abs/1712.07133"> First cosmological test of sub-proton-mass dark matter scattering with baryons</b> a>
 
 <p style="margin-bottom: 35px">
 
@@ -69,7 +69,7 @@ Here's the first cosmological limit on interactions of sub-proton-mass dark matt
 The result was obtained from measurements of the cosmic microwave background anisotropy from the Planck satellite.
 </p>
 
-<b><a href="https://arxiv.org/abs/1612.07808"> Can annual modulation signal help identify dark matter theory?<\b> a>
+<b><a href="https://arxiv.org/abs/1612.07808"> Can annual modulation signal help identify dark matter theory?</b> a>
 
 <p style="margin-bottom: 35px">
 student project: Sam Witte (UCLA)
@@ -98,8 +98,7 @@ With a 21-cm experiment consisting of 1 square km of dipole antennas, B fields a
 </p>
 
 
-<b>Searching for dark matter-proton interactions<\b>("https://arxiv.org/abs/2010.02936")
-
+<b><a href="https://arxiv.org/abs/2010.02936"> Searching for dark matter-proton interactions </b> </a>
 <p style="margin-bottom: 35px">
 student project: Karime Maamari (USC)
 
