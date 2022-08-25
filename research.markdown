@@ -24,7 +24,7 @@ If you are interested in applying to USC please take a look at the <a href="http
 Please contact me directly if you are interested in a postdoc position.
 <p>
 
-### [Probing dark matter with the smallest galaxies]("https://arxiv.org/abs/1904.10000") ###
+<b>[Probing dark matter with the smallest galaxies]("https://arxiv.org/abs/1904.10000") 
 
 <p style="margin-bottom: 35px">
 student project: Ethan Nadler (Stanford)
@@ -40,7 +40,7 @@ We introduce and apply a new method to constrain dark matter interactions with b
 </p>
 
 
-### [Disentangling dark physics with cosmic microwave background radiation anisotropy]("https://arxiv.org/abs/1806.10165")
+<b>[Disentangling dark physics with cosmic microwave background radiation anisotropy]("https://arxiv.org/abs/1806.10165")
 
 <p style="margin-bottom: 35px">
 student project: Zack Li (Princeton)
@@ -56,7 +56,7 @@ These forecasts fed into the Simons Observatory and CMB-S4 calculations of sensi
 </p>
 
 
-### [First cosmological test of sub-proton-mass dark matter scattering with baryons]("https://arxiv.org/abs/1712.07133") ###
+<b>[First cosmological test of sub-proton-mass dark matter scattering with baryons]("https://arxiv.org/abs/1712.07133")
 
 <p style="margin-bottom: 35px">
 
@@ -69,7 +69,7 @@ Here's the first cosmological limit on interactions of sub-proton-mass dark matt
 The result was obtained from measurements of the cosmic microwave background anisotropy from the Planck satellite.
 </p>
 
-### [Can annual modulation signal help identify dark matter theory?]("https://arxiv.org/abs/1612.07808") ### 
+<b>[Can annual modulation signal help identify dark matter theory?]("https://arxiv.org/abs/1612.07808")
 
 <p style="margin-bottom: 35px">
 student project: Sam Witte (UCLA)
@@ -84,7 +84,7 @@ In this work, we discuss how Earth's motion around the Sun and the resulting ann
 </p>
 
 
-### [Measuring primordial magnetic fields with 21-cm tomography]("https://arxiv.org/abs/1604.06327") ###
+<b>[Measuring primordial magnetic fields with 21-cm tomography]("https://arxiv.org/abs/1604.06327") 
 
 <p style="margin-bottom: 35px">
 
@@ -98,7 +98,7 @@ With a 21-cm experiment consisting of 1 square km of dipole antennas, B fields a
 </p>
 
 
-### [Searching for dark matter-proton interactions]("https://arxiv.org/abs/2010.02936") ###
+<b>[Searching for dark matter-proton interactions]("https://arxiv.org/abs/2010.02936")
 
 <p style="margin-bottom: 35px">
 student project: Karime Maamari (USC)
