@@ -16,7 +16,7 @@ I'm a member of three science collaborations focused on precision measurements o
 
 <b>Prospective Graduate Students:
 
-If you are interested in applying to USC please take a look at the <a href=" https://dornsife.usc.edu/physics/graduate-admissions/" departmental web page </a> for application instructions and deadlines.
+If you are interested in applying to USC please take a look at the <a href="https://dornsife.usc.edu/physics/graduate-admissions/"> departmental web page </a> for application instructions and deadlines.
 
 
 <b>Prospective Post Docs

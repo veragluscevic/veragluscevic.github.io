@@ -12,6 +12,7 @@ title: Teaching
 ### Courses Taught:
 
 ![trails]({{veragluscevic.github.io}}/assets/img/trails.jpg){:width="50%"}
+
 ASTR 540 (Spring 2022): Advanced Cosmology
 
 ![Galaxy]({{veragluscevic.github.io}}/assets/img/Galaxy.png){:width="50%"}
