@@ -84,7 +84,7 @@ In this work, we discuss how Earth's motion around the Sun and the resulting ann
 </p>
 
 
-<b><a href="https://arxiv.org/abs/1604.06327"> Measuring primordial magnetic fields with 21-cm tomography<\a></b>
+<b><a href="https://arxiv.org/abs/1604.06327"> Measuring primordial magnetic fields with 21-cm tomography</a></b>
 
 <p style="margin-bottom: 35px">
 
@@ -99,6 +99,7 @@ With a 21-cm experiment consisting of 1 square km of dipole antennas, B fields a
 
 
 <b><a href="https://arxiv.org/abs/2010.02936"> Searching for dark matter-proton interactions </a></b>
+
 <p style="margin-bottom: 35px">
 student project: Karime Maamari (USC)
 
