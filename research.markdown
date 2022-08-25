@@ -24,7 +24,7 @@ If you are interested in applying to USC please take a look at the <a href="http
 Please contact me directly if you are interested in a postdoc position.
 <p>
 
-<b><a href="https://arxiv.org/abs/1904.10000"> Probing dark matter with the smallest galaxies</a>  
+<b><a href="https://arxiv.org/abs/1904.10000"> Probing dark matter with the smallest galaxies</a><\b>  
 
 <p style="margin-bottom: 35px">
 student project: Ethan Nadler (Stanford)
@@ -40,7 +40,7 @@ We introduce and apply a new method to constrain dark matter interactions with b
 </p>
 
 
-<b>Disentangling dark physics with cosmic microwave background radiation anisotropy <\b>("https://arxiv.org/abs/1806.10165")
+<b><a href="https://arxiv.org/abs/1806.10165"> Disentangling dark physics with cosmic microwave background radiation anisotropy a><\b> 
 
 <p style="margin-bottom: 35px">
 student project: Zack Li (Princeton)
@@ -56,7 +56,7 @@ These forecasts fed into the Simons Observatory and CMB-S4 calculations of sensi
 </p>
 
 
-<b>First cosmological test of sub-proton-mass dark matter scattering with baryons<\b>("https://arxiv.org/abs/1712.07133")
+<b><a href="https://arxiv.org/abs/1712.07133"> First cosmological test of sub-proton-mass dark matter scattering with baryonsa><\b> 
 
 <p style="margin-bottom: 35px">
 
@@ -69,7 +69,7 @@ Here's the first cosmological limit on interactions of sub-proton-mass dark matt
 The result was obtained from measurements of the cosmic microwave background anisotropy from the Planck satellite.
 </p>
 
-<b>Can annual modulation signal help identify dark matter theory?<\b>("https://arxiv.org/abs/1612.07808")
+<b><a href="https://arxiv.org/abs/1612.07808"> Can annual modulation signal help identify dark matter theory?a><\b> 
 
 <p style="margin-bottom: 35px">
 student project: Sam Witte (UCLA)
@@ -84,7 +84,7 @@ In this work, we discuss how Earth's motion around the Sun and the resulting ann
 </p>
 
 
-<b>Measuring primordial magnetic fields with 21-cm tomography<\b>("https://arxiv.org/abs/1604.06327") 
+<b><a href="https://arxiv.org/abs/1604.06327"> Measuring primordial magnetic fields with 21-cm tomographya><\b> 
 
 <p style="margin-bottom: 35px">
 
