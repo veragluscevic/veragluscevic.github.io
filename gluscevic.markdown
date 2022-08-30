@@ -41,15 +41,14 @@ Trey Driskell (USC PhD student 2030-present): Trey is investigating the global 2
 
 Adam He (USC PhD student 2020-present): Adam is using the effective theory of structure formation to enable calculation of non-linear evolution of cosmological perturbations in non-cold dark matter cosmologies.
 
-Karime Maamari (USC PhD Student 2022-present):
+![Karime]({{veragluscevic.github.io}}/assets/img/Karime.jpg){:width="45%"}
+
+<a href="https://karimemaamari.com/"> Karime Maamari </a? (USC PhD Student 2019-present) Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES.
 
 ### Former: ###
 <p>
 
 <a href="https://www.linkedin.com/in/resherle-verna-m-s-96945898//"> Resherle Verna </a> (post-bacc student and former USC masters student, class of 2020; former Data Science Specialist at Southern California Edison; now PhD student at UT Austin ): Resherle works on visualizations of zoom-in simulations of the Milky Way in non-cold dark matter cosmologies, co-advised by Ethan Nadler.
-<p>
-
-Karime Maamari (USC undergrad, class of 2020; now Graduate Student at USC): Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES.
 
 <p>
 Dimple Sarnaaik (USC undergrad, class of 2021): Dimple had worked on performing analytic estimates for the bound on dark matter-electron scattering from CMB anisotropy measurements.

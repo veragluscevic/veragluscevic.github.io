@@ -33,7 +33,7 @@ student project: Ethan Nadler (Stanford)
 We introduce and apply a new method to constrain dark matter interactions with baryonic particles in the early universe, using a population of satellite galaxies around the Milky Way.
 
 <p align="center">
-  <img width="50%" src="{{veragluscevic.github.io}}/assets/img/Research1.png" alt="Research1">
+  <img width="50%" src="{{veragluscevic.github.io}}/assets/img/limit2.png" alt="limit2">
 </p>
 
  We limit dark matter interactions to be 1000 times weaker than previous studies allowed. This work was highlighted in AAS Nova.
@@ -106,7 +106,7 @@ student project: Karime Maamari (USC)
 We compute new bounds on the rate of dark matter-proton scattering at a time when the Universe was ~2 months old. The results are entirely based on linear cosmological perturbation theory and constrain dark matter interaction physics for a broad range of dark matter models. 
 
 <p align="center">
-  <img width="50%" src="{{veragluscevic.github.io}}/assets/img/Research6.png" alt="Research6">
+  <img width="50%" src="{{veragluscevic.github.io}}/assets/img/limits.png" alt="limits.png">
 </p>
 
 They improve upon previous astrophysical bounds on the scattering cross section by 5 orders of magnitude.
