@@ -41,7 +41,7 @@ Trey Driskell (USC PhD student 2030-present): Trey is investigating the global 2
 
 Adam He (USC PhD student 2020-present): Adam is using the effective theory of structure formation to enable calculation of non-linear evolution of cosmological perturbations in non-cold dark matter cosmologies.
 
-![Karime]({{veragluscevic.github.io}}/assets/img/Karime){:width="45%"}
+![Karime]({{veragluscevic.github.io}}/assets/img/Karime.png){:width="45%"}
 
 <a href="https://karimemaamari.com/"> Karime Maamari </a> (USC PhD Student 2019-present) Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES.
 
