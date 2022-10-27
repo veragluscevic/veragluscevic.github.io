@@ -40,7 +40,7 @@ CosmoLab Hacks (2019-Present): weekly data analysis tutorials for USC grads/unde
 <p>
 ASTR 100 (spring 2020, fall 2021): general-education course, introduction to the Universe.
 </p>
-[Click Here for Astro 100 Lectures 📁](https://github.com/veragluscevic/veragluscevic.github.io/tree/main/assets/pdfs/Astro100/)
+[Click Here for Astro 100 Lectures 📁](https://github.com/veragluscevic/veragluscevic.github.io/tree/main/assets/PDFs/Astro100 )
 <p>
 Astro 100 is a course were we address some of the questions as old as humankind, “What is the universe?”, “What is our place in it?”, “How old is it?”, “What is it made out
 of?”, and so on. We take a journey from our Solar System all the way to the farthest reaches of space and time and take a deeper look into the physics underlying astronomical phenomena. We discuss how the science of astronomy has tremendously helped the development of physics, and how physics enables the understanding of the entire universe. This course is designed specifically for those non-science majors who have very little, if any, background in the sciences and mathematics. The course is non-mathematical by prerequisite, some calculations will be necessary. One of the goals of this course is to show students how scientific thinking applied in astronomy can also be useful in everyday life.
