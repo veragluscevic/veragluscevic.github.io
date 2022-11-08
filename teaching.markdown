@@ -30,12 +30,13 @@ used computational methods and other tools cosmologists use in their everyday re
 Cosmology ASTR 424 (spring 2020): upper-division undergraduate course on cosmology.
 </p>
 Astro 424 is an upper-level undergraduate introduction to cosmology. The course discusses the standard big bang theory of the universe and introduces the current theory for the origin and growth of large-scale structure. The course talks about basic equations describing the universe, the expansion and age of the universe, dark matter and dark energy, the thermal history of the universe, the origin of the light elements, the cosmic microwave background, the growth of density perturbations and cosmological inflation. Emphasis is placed on comparison of theory with observations.
-</p>
 
 ![eye]({{veragluscevic.github.io}}/assets/img/eye.png){:width="50%"}
 <p>
 CosmoLab Hacks (2019-Present): weekly data analysis tutorials for USC grads/undergrads.
 </p>
+[Click Here for our Hack Space 📁](https://github.com/usc-cosmolab/hackspace)
+
 ![Astro]({{veragluscevic.github.io}}/assets/img/Astro.png){:width="50%"}
 <p>
 ASTR 100 (spring 2020, fall 2021): general-education course, introduction to the Universe.
