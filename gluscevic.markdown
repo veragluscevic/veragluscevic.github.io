@@ -6,7 +6,6 @@ layout: default
 cover:  true
 title: Gluscevic Group
 ---
-#![universe]({{veragluscevic.github.io}}/dm.png){:width="1000" height="100"}
 
 If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc and want to know more about potential research opportunities, email me at <b>vera.gluscevic [at] usc.edu</b>. 
 
