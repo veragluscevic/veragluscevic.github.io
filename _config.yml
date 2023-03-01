@@ -51,15 +51,13 @@ menu:
   - title: Gluscevic Group
     url:   /gluscevic.html
   - title: Cosmolab
-    url:   /cosmolab.html
+    url:   https://usc-cosmolab.github.io/cosmolab-site-v2/index.html
   - title: Teaching 
     url:   /teaching.html
-  - title: Resources
-    url:   /resources.html
-  - title: CV
-    url:   ./CV.pdf
   - title: Contact 
     url:   /contact.html
+  - title: CV
+    url:   ./CV.pdf
 
 # Exclude from processing.
 # The following items will not be processed, by default.
