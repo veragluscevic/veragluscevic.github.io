@@ -16,32 +16,32 @@ If you are a USC undergraduate student interested the work we do email me at <b>
 ### Current Members: ###
 
 
-![RuiAn]({{veragluscevic.github.io}}/assets/img/RuiAn-circle.jpg){:width="45%"}
+![RuiAn]({{veragluscevic.github.io}}/assets/img/RuiAn.jpg){:width="45%"}
 
 Rui An (postdoc 2021-present): Rui works on constraining the mass and interactions of dark matter and other cosmological probes of new physics.
 
-![Ethan Nadler]({{veragluscevic.github.io}}/assets/img/EthanNadler-circle.jpg){:width="45%"} 
+![Ethan Nadler]({{veragluscevic.github.io}}/assets/img/EthanNadler.jpg){:width="45%"} 
 
 <a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc 2021-present): Ethan works on state-of-the art zoom-in simulations in non-cold dark matter cosmologies, introducing inference to near-field cosmology to robustly search for signatures of new physics in local observables.
 
 
-![Trey]({{veragluscevic.github.io}}/assets/img/GeorgeDriskell-circle.png){:width="45%"}
+![Trey]({{veragluscevic.github.io}}/assets/img/GeorgeDriskell.png){:width="45%"}
 
 Trey Driskell (USC PhD student 2030-present): Trey is investigating the global 21-cm signal in context of interacting dark matter models that can change the thermal history of the universe.
 
-![Aryan]({{veragluscevic.github.io}}/assets/img/AryanRahimieh-circle.jpg){:width="45%"}
+![Aryan]({{veragluscevic.github.io}}/assets/img/AryanRahimieh.jpg){:width="45%"}
 
 <a href="https://www.linkedin.com/in/aryan-rahimieh/"> Aryan Rahimieh </a> (USC PhD student 2019-present): Aryan is working on a novel way to detect interactions of axion-like particles with electrons, using 21-cm line intensity mapping. As his second project, he is working on the Fisher forecasting of global 21-cm signal to put constraints on astrophysical parameters as well as model dependent DM mass and cross section. 
 
-![Wendy]({{veragluscevic.github.io}}/assets/img/WendyCrumrine-circle.jpg){:width="45%"}
+![Wendy]({{veragluscevic.github.io}}/assets/img/WendyCrumrine.jpg){:width="45%"}
 
 <a href="https://brightinsightslearning.com/about-me/"> Wendy Crumrine </a> (USC PhD student 2021-present): Wendy is using Milky Way satellite abundance measurements to derive constraints on non-cold dark matter cosmological models; in particular, models in which dark mater interacts with neutrinos or photons. 
 
-![AdamHe]({{veragluscevic.github.io}}/assets/img/AdamHe-circle.jpg){:width="45%"}
+![AdamHe]({{veragluscevic.github.io}}/assets/img/AdamHe.jpg){:width="45%"}
 
 Adam He (USC PhD student 2020-present): Adam is using the effective theory of structure formation to enable calculation of non-linear evolution of cosmological perturbations in non-cold dark matter cosmologies.
 
-![Karime]({{veragluscevic.github.io}}/assets/img/Karime-circle.png){:width="45%"}
+![Karime]({{veragluscevic.github.io}}/assets/img/Karime.png){:width="45%"}
 
 <a href="https://karimemaamari.com/"> Karime Maamari </a> (USC PhD Student 2019-present) Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES.
 
