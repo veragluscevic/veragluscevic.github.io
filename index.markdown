@@ -15,7 +15,7 @@ Vera is a Gabilan Assistant Professor of Physics and Astronomy at the <a href="h
 Vera is one of the founding members of two large international collaborations, CMB-S4 and the Simons Observatory Collaboration (SO), working to build the next-generation ground-based observatories for measuring the cosmic microwave background radiation. She served on the CMB-S4 Executive Committee and led the Likelihood and Theory working group for SO, and in both instances helped to shape the scinence goals of these programs, leading their dark matter science definition and forecasts. In 2022, Vera received USC Raubenheimer Outstanding Junior Faculty Award. In 2023, she was named a Cottrell Scholar by the Research Corporation for Science Advancement. Her research is supported by NSF and NASA through astroparticle/cosmology and astrophysics theory programs.
  </p>
 
-Check out my [CV](./CV.pdf) for more information.
+Check out Vera's [CV](./CV.pdf) for more information.
 <p>
 <b>vera.gluscevic@usc.edu</b>
 
