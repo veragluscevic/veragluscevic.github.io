@@ -52,7 +52,7 @@ Adam He (USC PhD): Adam is using the effective theory of structure formation to 
 ### Former: ###
 <p>
 
-<a href="https://www.linkedin.com/in/resherle-verna-m-s-96945898//"> Resherle Verna </a> (post-bacc student and former USC masters student, class of 2020; former Data Science Specialist at Southern California Edison; now PhD student at UT Austin ): Resherle works on visualizations of zoom-in simulations of the Milky Way in non-cold dark matter cosmologies, co-advised by Ethan Nadler.
+<a href="https://www.linkedin.com/in/resherle-verna-m-s-96945898//"> Resherle Verna </a> (post-bacc student and former USC masters student, class of 2020, GEM fellow; continued on to PhD at UT Austin).
 
 <p>
 Dimple Sarnaaik (USC undergrad, class of 2021; continued on to PhD at USC)
