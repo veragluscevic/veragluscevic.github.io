@@ -46,14 +46,12 @@ plugins:
 accent_color: rgb(0,0,0)
 
 menu:
-  - title: Research
-    url:   /research.html
   - title: Gluscevic Group
     url:   /gluscevic.html
-  - title: Cosmolab
-    url:   https://usc-cosmolab.github.io/cosmolab-site-v2/index.html
   - title: Teaching 
     url:   /teaching.html
+  - title: Cosmolab @ USC
+    url:   https://usc-cosmolab.github.io/cosmolab-site-v2/index.html
   - title: Contact 
     url:   /contact.html
   - title: CV
