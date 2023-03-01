@@ -20,11 +20,11 @@ Vera Gluscevic.
 ### The Team: ###
 
 
-![RuiAn]({{veragluscevic.github.io}}/assets/img/RuiAn.jpg){:width="45%"}
+![RuiAn]({{veragluscevic.github.io}}/assets/img/RuiAn.png){:width="45%"}
 
 Rui An (postdoc 2021-present): Rui works on cosmological probes of new physics, inference using CMB and LSS data, and cosmological simulations.
 
-![Ethan Nadler]({{veragluscevic.github.io}}/assets/img/EthanNadler.jpg){:width="45%"} 
+![Ethan Nadler]({{veragluscevic.github.io}}/assets/img/EthanNadler.png){:width="45%"} 
 
 <a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc 2021-present): Ethan is an expert on zoom-in simulations in non-cold dark matter cosmologies, near-field cosmology, and galaxy formation and evolution.
 
@@ -32,15 +32,15 @@ Rui An (postdoc 2021-present): Rui works on cosmological probes of new physics, 
 
 Trey Driskell (PhD student): Trey's thesis focuses on the cosmological 21-cm signal, interacting dark matter models, and galaxy formation.
 
-![Aryan]({{veragluscevic.github.io}}/assets/img/AryanRahimieh.jpg){:width="45%"}
+![Aryan]({{veragluscevic.github.io}}/assets/img/AryanRahimieh.png){:width="45%"}
 
 <a href="https://www.linkedin.com/in/aryan-rahimieh/"> Aryan Rahimieh </a> (PhD student): Aryan is working on forecasting sensitivity of future experiments to measuring fundamental parameters of dark matter. 
 
-![Wendy]({{veragluscevic.github.io}}/assets/img/WendyCrumrine.jpg){:width="45%"}
+![Wendy]({{veragluscevic.github.io}}/assets/img/WendyCrumrine.png){:width="45%"}
 
 <a href="https://brightinsightslearning.com/about-me/"> Wendy Crumrine </a> (PhD student): Wendy is using Milky Way satellite abundance measurements to probe dark matter featuring interactions with neutrinos and photons. 
 
-![AdamHe]({{veragluscevic.github.io}}/assets/img/AdamHe.jpg){:width="45%"}
+![AdamHe]({{veragluscevic.github.io}}/assets/img/AdamHe.png){:width="45%"}
 
 Adam He (USC PhD): Adam is using the effective theory of structure formation to probe new physics with LSS observables.
 
