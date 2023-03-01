@@ -11,9 +11,14 @@ title: Gluscevic Group
 If you are a USC undergraduate student interested the work we do email me at <b>vera.gluscevic@usc.edu</b>. If you are looking for a posdoc position email me at <b>vera.gluscevic@usc.edu</b>. I particularly encourage applications from postdocs and students committed to advocacy for diversity and inclusion in physics. At this time I am not accepting high school students.
 
 
+### PI: ###
+
+![VeraGluscevic]({{veragluscevic.github.io}}/assets/img/vera.jpg){:width="45%"}
+
+Vera Gluscevic.
 
 
-### Current Members: ###
+### The Team: ###
 
 
 ![RuiAn]({{veragluscevic.github.io}}/assets/img/RuiAn.jpg){:width="45%"}
