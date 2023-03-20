@@ -12,7 +12,7 @@ If you are a USC undergraduate student, a prospective PhD student, or a prospect
 
 ### PI: ###
 
-![VeraGluscevic]({{veragluscevic.github.io}}/assets/img/vera.jpg){:width="45%"}
+![VeraGluscevic]({{veragluscevic.github.io}}/assets/img/Vera.jpg){:width="45%"}
 
 Vera Gluscevic.
 
