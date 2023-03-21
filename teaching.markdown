@@ -38,7 +38,7 @@ CosmoLab Hacks (2019-2021): Extracurricular weekly data analysis tutorials for U
 <p>
 ASTR 100 (spring 2020, fall 2021): general-education course, introduction to the Universe.
 </p>
-[Click Here for Astro 100 Lectures 📁](https://github.com/veragluscevic/veragluscevic.github.io/tree/main/assets/PDFs/Astro100 )
+
 <p>
 Astro 100 is a course addressing some of the questions as old as humankind: “What is our place in the universe?”, “How old is the universe?”, “What is it made out of?”, and so on. The course lectures takes a journey from our Solar System, all the way to the farthest reaches of space and time, unveiling the physics underlying astronomical phenomena. The course is designed for non-science majors who have little, if any, background in the sciences and mathematics, and the course labs offer a gentle introduction to simple calculations that help elucidate key concepts from the lectures. Lectures involve think-pair-share exercises and in-class discussion sessions. One of the goals of the course is to use astronomy to showcase scientific thinking applied in scineces and in everyday life.
 </p>
