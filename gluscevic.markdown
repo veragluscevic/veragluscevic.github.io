@@ -7,15 +7,9 @@ cover:  true
 title: Gluscevic Group
 ---
 
-If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc and want to know more about potential research opportunities, email me at <b>vera.gluscevic [at] usc.edu</b>. 
+### PI: Vera Gluscevic ###
 
-
-### PI: ###
-
-![VeraGluscevic]({{veragluscevic.github.io}}/assets/img/Vera.png){:width="30%"}
-
-Vera Gluscevic.
-
+![VeraGluscevic]({{veragluscevic.github.io}}/assets/img/Vera.png){:width="30%"} Vera Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
 
 ### The Team: ###
 
@@ -47,6 +41,10 @@ Adam He (USC PhD): Adam is using the effective theory of structure formation to 
 ![Karime]({{veragluscevic.github.io}}/assets/img/Karime.png){:width="30%"}
 
 <a href="https://karimemaamari.com/"> Karime Maamari </a> (PhD Student): Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES; he now works on developing the first galaxy formation simulations that include dark matter-proton elastic scattering.
+
+### Interested in joining the team? ###
+
+If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc, and want to know more about potential research opportunities, send an email to <b>vera.gluscevic [at] usc.edu</b>. 
 
 ### Former: ###
 <p>
