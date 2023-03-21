@@ -12,7 +12,6 @@ title: Gluscevic Group
 <img src="{{veragluscevic.github.io}}/assets/img/Vera.png" style="padding: 0px 0px 0px 0px; float: left;" align="left" width="35%"/> <br>Vera Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
 
 <br>
-### The Team: ###
 
 
 ![RuiAn]({{veragluscevic.github.io}}/assets/img/RuiAn.png){:width="35%"}
@@ -47,7 +46,7 @@ Adam He (USC PhD): Adam is using the effective theory of structure formation to 
 
 If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc, and want to know more about potential research opportunities, send an email to <b>vera.gluscevic [at] usc.edu</b>. 
 
-### Former: ###
+### Former members: ###
 <p>
 
 <a href="https://www.linkedin.com/in/resherle-verna-m-s-96945898//"> Resherle Verna </a> (post-bacc student and former USC masters student, class of 2020, GEM fellow; continued on to PhD at UT Austin).
