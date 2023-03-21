@@ -9,8 +9,7 @@ title: Vera Gluscevic
 <img align="center" src="{{veragluscevic.github.io}}/assets/img/vera-bb.jpg" alt="Vera" width="35%" >
 
 
-
-Dr. Vera Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the <a href="https://dornsife.usc.edu/physics/"> University of Southern California </a> (USC). As a postdoc, she was an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech and her undergraduate degree in Astrophysics from the University of Belgrade, Serbia. 
+Vera Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the <a href="https://dornsife.usc.edu/physics/"> University of Southern California </a> (USC). As a postdoc, she was an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech and her undergraduate degree in Astrophysics from the University of Belgrade, Serbia. 
  
   <br> 
   <br>
