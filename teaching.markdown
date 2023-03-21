@@ -7,22 +7,20 @@ cover:  true
 title: Teaching
 ---
 
-![Banner]({{veragluscevic.github.io}}/assets/img/Banner.png){:width="1000" Heigth="200"}
-
 ### Courses Taught:
 
-![trails]({{veragluscevic.github.io}}/assets/img/Astro.png){:width="50%"}
-
-ASTR 540 (Spring 2022): Advanced Cosmology
-<p>
-Astro 540 is an advanced cosmology course for beginning graduate students and advanced undergraduates in astrophysics, with the goal to prepare them for research in this field. This course briefly covers key concepts that describe the evolution and content of a
-homogenous, expanding universe, and then transitions to a deep dive into advanced topics in
-physical cosmology, focusing on cosmological perturbation theory, inflation, structure formation,
+<img style="float: left; padding: 15px 15px 15px 15px" src="{{veragluscevic.github.io}}/assets/img/Astro.png" width="40%"/> 
+<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href=""> 
+Advanced Cosmology ASTR 540 (Spring 2022)
+<br>Astro 540 is an advanced cosmology course for beginning graduate students and advanced undergraduates in astrophysics, with the goal to prepare them for research in this field. This course briefly covers key concepts that describe the evolution and content of a homogenous, expanding universe, and then transitions to a deep dive into advanced topics in physical cosmology, focusing on cosmological perturbation theory, inflation, structure formation,
 cosmic microwave background anisotropy, gravitational lensing, dark matter, dark energy, and
 the particle dynamics in the early and late universe. The course balances theoretical aspects of
 modern cosmology with their practical application to data, covering the most commonly
 used computational methods and other tools cosmologists use in their everyday research.
-</p>
+<br>
+<br>
+
+
 
 ![Galaxy]({{veragluscevic.github.io}}/assets/img/Galaxy.png){:width="50%"}
 <p>
