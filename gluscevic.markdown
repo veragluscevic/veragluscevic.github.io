@@ -7,7 +7,7 @@ cover:  true
 title: Gluscevic Group
 ---
 
-<img style="float: left; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> <br>Vera Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
+<img style="float: left; padding: 10px 10px 15px 10px;" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> <br>Vera Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
 
 <br>
 
@@ -17,7 +17,11 @@ title: Gluscevic Group
 
 ![Ethan Nadler]({{veragluscevic.github.io}}/assets/img/EthanNadler.png){:width="35%"} 
 
-<a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc 2021-present): Ethan is an expert on zoom-in simulations in non-cold dark matter cosmologies, near-field cosmology, and galaxy formation and evolution.
+<a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc 2021-present)
+<br>
+Dr. Nadler received his PhD from Stanford. He is an expert on zoom-in simulations in non-cold dark matter cosmologies, near-field cosmology, and galaxy formation and evolution. 
+
+<br>
 
 ![Trey]({{veragluscevic.github.io}}/assets/img/GeorgeDriskell.png){:width="35%"}
 
