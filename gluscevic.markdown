@@ -14,35 +14,49 @@ title: Gluscevic Group
 <br>
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/EthanNadler.png" width="35%"/> 
-<br><a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc, 2021-present) 
+<br><a href="https://eonadler.github.io/"> Ethan O. Nadler</a>, Carnegie-USC postdoc
 <br>Dr. Nadler received his PhD from Stanford. He is an expert on zoom-in simulations in non-cold dark matter cosmologies, near-field cosmology, and galaxy formation and evolution.
 
 <br>
 
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/RuiAn.png" width="35%"/> 
-<br> Rui An (postdoc, 2021-present): Dr. An received her PhD from the University of Shanghai. Her work focuses on cosmological probes of new physics, combining inference using the CMB and large scale structure data, and cosmological simulations.  
+<br> Rui An, postdoc
+<br>Dr. An received her PhD from the University of Shanghai. Her work focuses on cosmological probes of new physics, combining inference using the CMB and large scale structure data, and cosmological simulations.  
 
 <br>
 
-![Trey]({{veragluscevic.github.io}}/assets/img/GeorgeDriskell.png){:width="35%"}
+<img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/GeorgeDriskell.png" width="35%"/> 
+<br><a href=""> George (Trey) Driskell</a>, PhD student
+<br>Trey's thesis focuses on cosmological consequences of interacting dark matter on 21-cm signal and galaxy formation.
 
-Trey Driskell (PhD student): Trey's thesis focuses on the cosmological 21-cm signal, interacting dark matter models, and galaxy formation.
+<br>
 
-![Aryan]({{veragluscevic.github.io}}/assets/img/AryanRahimieh.png){:width="35%"}
+<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/AdamHe.png" width="35%"/> 
+<br> Adam He, PhD student
+<br>Adam is using the effective theory of structure formation to probe new physics with large scale structure.
 
-<a href="https://www.linkedin.com/in/aryan-rahimieh/"> Aryan Rahimieh </a> (PhD student): Aryan is working on forecasting sensitivity of future experiments to measuring fundamental parameters of dark matter. 
+<br>
 
-![Wendy]({{veragluscevic.github.io}}/assets/img/WendyCrumrine.png){:width="35%"}
+<img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/WendyCrumrine.png" width="35%"/> 
+<br><a href=""> Wendy Crumrine</a>, PhD student
+<br>Wendy is using Milky Way satellite abundance measurements to test dark matter scattering with neutrinos and photons. 
 
-<a href="https://brightinsightslearning.com/about-me/"> Wendy Crumrine </a> (PhD student): Wendy is using Milky Way satellite abundance measurements to probe dark matter featuring interactions with neutrinos and photons. 
+<br>
 
-![AdamHe]({{veragluscevic.github.io}}/assets/img/AdamHe.png){:width="35%"}
-
-Adam He (USC PhD): Adam is using the effective theory of structure formation to probe new physics with LSS observables.
+<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/AryanRahimieh.png" width="35%"/> 
+<br> Aryan Rahimieh, PhD student
+<br>Aryan worka on forecasting sensitivity of future experiments to disentangle astrophysical parameters from signatures of new physics.
 
 ![Karime]({{veragluscevic.github.io}}/assets/img/Karime.png){:width="35%"}
 
 <a href="https://karimemaamari.com/"> Karime Maamari </a> (PhD Student): Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES; he now works on developing the first galaxy formation simulations that include dark matter-proton elastic scattering.
+
+
+<br>
+
+<img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Karime.png" width="35%"/> 
+<br><a href="https://karimemaamari.com/"> Karime Maamari</a>, PhD student
+<br>Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES. He now works on developing the first galaxy formation simulations that include dark matter-proton elastic scattering.
 
 ### Interested in joining the team? ###
 
