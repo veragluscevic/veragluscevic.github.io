@@ -7,9 +7,6 @@ cover:  true
 title: Gluscevic Group
 ---
 
-If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc and want to know more about potential research opportunities, email me at <b>vera.gluscevic [at] usc.edu</b>. 
-
-
 ### PI: ###
 
 ![VeraGluscevic]({{veragluscevic.github.io}}/assets/img/Vera.png){:width="30%"}
@@ -47,6 +44,10 @@ Adam He (USC PhD): Adam is using the effective theory of structure formation to 
 ![Karime]({{veragluscevic.github.io}}/assets/img/Karime.png){:width="30%"}
 
 <a href="https://karimemaamari.com/"> Karime Maamari </a> (PhD Student): Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES; he now works on developing the first galaxy formation simulations that include dark matter-proton elastic scattering.
+
+### Interested in joining the team? ###
+
+If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc, and want to know more about potential research opportunities, send an email to <b>vera.gluscevic [at] usc.edu</b>. 
 
 ### Former: ###
 <p>
