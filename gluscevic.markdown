@@ -7,19 +7,19 @@ cover:  true
 title: Gluscevic Group
 ---
 
-<img style="float: left; padding: 10px 10px 15px 10px; font-family:verdana; color:blue;" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> <br>Vera Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
+<img style="float: left; padding: 15px 15px 15px 15px" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> 
+<br><a href="https://veragluscevic.github.io/"> Vera Gluscevic</a> is a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
 
 <br>
 
-<img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/RuiAn.png" width="35%"/> <br> Rui An (postdoc): Dr. An's work focuses on cosmological probes of new physics, combining inference using the CMB and large scale structure data, and cosmological simulations. Dr. An received her PhD from the University of Shanghai.  
+<img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/EthanNadler.png" width="35%"/> 
+<br><a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc, 2021-present) 
+<br>Dr. Nadler received his PhD from Stanford. He is an expert on zoom-in simulations in non-cold dark matter cosmologies, near-field cosmology, and galaxy formation and evolution.
 
 <br>
 
-![Ethan Nadler]({{veragluscevic.github.io}}/assets/img/EthanNadler.png){:width="35%"} 
-
-<a href="https://eonadler.github.io/"> Ethan O. Nadler</a> (Carnegie-USC postdoc 2021-present)
-<br>
-Dr. Nadler received his PhD from Stanford. He is an expert on zoom-in simulations in non-cold dark matter cosmologies, near-field cosmology, and galaxy formation and evolution. 
+<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/RuiAn.png" width="35%"/> 
+<br> Rui An (postdoc, 2021-present): Dr. An received her PhD from the University of Shanghai. Her work focuses on cosmological probes of new physics, combining inference using the CMB and large scale structure data, and cosmological simulations.  
 
 <br>
 
