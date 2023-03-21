@@ -4,7 +4,7 @@
 
 layout: default
 cover:  true
-title: Gluscevic Group
+title: The team
 ---
 
 <img style="float: left; padding: 15px 15px 15px 15px" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> 
@@ -24,10 +24,14 @@ title: Gluscevic Group
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/RuiAn.png" width="35%"/> 
-<br> Rui An, postdoc
+<br> <a href=""> Rui An</a>, postdoc
 <br>Dr. An received her PhD from the University of Shanghai. Her work focuses on cosmological probes of new physics, combining inference using the CMB and large scale structure data, and cosmological simulations.  
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -42,10 +46,14 @@ title: Gluscevic Group
 <br>
 <br>
 <br>
+<br>
+<br>
    
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/AdamHe.png" width="35%"/> 
-<br> Adam He, PhD student
+<br> <a href="">Adam He</a>, PhD student
 <br>Adam is using the effective theory of structure formation to probe new physics with large scale structure.
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -60,10 +68,14 @@ title: Gluscevic Group
 <br>
 <br>
 <br>
+<br>
+<br>
   
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/AryanRahimieh.png" width="35%"/> 
-<br> Aryan Rahimieh, PhD student
+<br> <a href="">Aryan Rahimieh</a>, PhD student
 <br>Aryan worka on forecasting sensitivity of future experiments to disentangle astrophysical parameters from signatures of new physics.
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -73,12 +85,19 @@ title: Gluscevic Group
 <img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Karime.png" width="35%"/> 
 <br><a href="https://karimemaamari.com/"> Karime Maamari</a>, PhD student
 <br>Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES. He now works on developing the first galaxy formation simulations that include dark matter-proton elastic scattering.
-  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
   
 ### Interested in joining the team? ###
-
+<p>
 If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc, and want to know more about potential research opportunities, send an email to <b>vera.gluscevic [at] usc.edu</b>. 
+<\p>
 
 ### Former members: ###
 <p>
