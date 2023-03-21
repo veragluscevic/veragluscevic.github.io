@@ -103,8 +103,10 @@ If you are a USC undergraduate student, a prospective PhD student, or a prospect
 <br>
 
 ### Former members: ###
+  <br>
+<br>
+<br>
 
-<p>
 
 <a href="https://www.linkedin.com/in/resherle-verna-m-s-96945898//"> Resherle Verna </a> (post-bacc student and former USC masters student, class of 2020, GEM fellow; continued on to PhD at UT Austin).
 
