@@ -9,8 +9,7 @@ title: Gluscevic Group
 
 ### PI: Vera Gluscevic ###
 
-![VeraGluscevic]({{veragluscevic.github.io}}/assets/img/Vera.png){:width="30%"} Vera Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton, and she received her PhD in Astrophysics at Caltech, and her bechelors degree in Astrophysics at the University of Belgrade, Serbia.
-
+![VeraGluscevic]({{veragluscevic.github.io}}/assets/img/Vera.png){:width="30%"} Vera Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
 
 ### The Team: ###
 
