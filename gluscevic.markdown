@@ -98,8 +98,12 @@ title: The team
 <p>
 If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc, and want to know more about potential research opportunities, send an email to <b>vera.gluscevic [at] usc.edu</b>. 
 <\p>
+  <br>
+<br>
+<br>
 
 ### Former members: ###
+
 <p>
 
 <a href="https://www.linkedin.com/in/resherle-verna-m-s-96945898//"> Resherle Verna </a> (post-bacc student and former USC masters student, class of 2020, GEM fellow; continued on to PhD at UT Austin).
