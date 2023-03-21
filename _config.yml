@@ -46,7 +46,7 @@ plugins:
 accent_color: rgb(0,0,0)
 
 menu:
-  - title: Gluscevic Group
+  - title: The group
     url:   /gluscevic.html
   - title: Teaching 
     url:   /teaching.html
