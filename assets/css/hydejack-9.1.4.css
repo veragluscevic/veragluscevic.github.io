@@ -161,7 +161,7 @@ blockquote > p:last-child { margin-bottom: 0; }
 
 .faded, .read-more, figure, .figure, .figcaption { color: var(--gray); }
 
-.centered, figure, .figure, .figcaption { text-align: center; }
+.centered, figure, .figure, .figcaption { text-align: left; }
 
 h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] { position: relative; }
 h1[id] > .permalink, h2[id] > .permalink, h3[id] > .permalink, h4[id] > .permalink, h5[id] > .permalink, h6[id] > .permalink { text-decoration: none; border: none; opacity: 0; transition: opacity 400ms; }
