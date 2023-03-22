@@ -15,7 +15,7 @@ the thermal history of the universe. With a mix of traditional lectures, in-clas
 <br>
 <br>
 
-<img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Galaxy.png" width="30%"/> 
+<img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/expansion.png" width="30%"/> 
 <a href="https://classes.usc.edu/term-20201/classes/astr/">Cosmology: ASTR 424 (Spring 2020)</a>
   
 **An upper-division undergraduate course**, introducing cosmology to astrophysics and physics majors at USC. The course introduces the standard Big Bang theory and discusses the evolution and expansion of a homogenous universe, motivating classical derivation of the Friedmann and continuity equations and their application. Through lectures and in-class discussions and problem solving, the course aims to provide students with foundational knowledge in modern physical cosmology.
