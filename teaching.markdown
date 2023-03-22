@@ -25,7 +25,7 @@ the thermal history of the universe. With a mix of traditional lectures, in-clas
 <img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/sphere.png" width="30%"/> 
 <a href="https://classes.usc.edu/term-20221/classes/astr/">The Universe: ASTR 100 (Sring 2021, Fall 2021, Spring 2022)</a>
   
-**A general-education course** in Astronomy, for non-majors. This course touches on questions as old as humankind: “How old is the universe?”, “What is it made of?”, and “What is our place in it?”. The lectures begin with an overview of our Solar System, touch on the diverse lives of stars and galaxies, and go all the way to the farthest reaches of space and time, unveiling the physics underlying astronomical phenomena. The course is designed for students with no background in the sciences and mathematics and the accompanying labs offer a gentle introduction to calculations that help illustrate key concepts from the lectures. The class mixes traditional lectures with think-pair-share exercises and discussion sessions. A key goal of the course to inspire, practice, and sharpen scientific thought on an awe-inspiring journey through the universe.
+**A general-education course** in Astronomy, for non-majors. This course touches on questions as old as humankind: “How old is the universe?”, “What is it made of?”, and “What is our place in it?”. The lectures begin with an overview of our Solar System, touch on the diverse lives of stars and galaxies, and go all the way to the farthest reaches of space and time, unveiling the physics underlying astronomical phenomena. The course is designed for students with no background in the sciences and mathematics and the accompanying labs offer a gentle introduction to calculations that help illustrate key concepts from the lectures. The class mixes traditional lectures with think-pair-share exercises and discussion sessions. This course and especially its <a href="https://drive.google.com/file/d/1pgRknvQOZ99Gt5gt9xmqCRZP44qCPRnG/view?usp=sharing">new module on building Knowledge<\a> is designed to inspire, practice, and sharpen scientific thought on an awe-inspiring journey through the universe.
 <br>
 <br>
 
@@ -34,7 +34,7 @@ the thermal history of the universe. With a mix of traditional lectures, in-clas
 
 **Extracurricular weekly tutorials** on data analysis and inference, for USC graduate and undergraduate students interested in starting research in astrophysics and cosmology. CosmoLab Hacks are now taking place a few times a semester, as a part of CosmoLab weekly meetings, and are targeting the use of advanced computational tools for research in cosmology.
 
-<img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/hack.jpg" width="30%"/> 
+<img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/dm.png" width="30%"/> 
 <a href="https://drive.google.com/file/d/1shoBavvYvqRNK1D-vxBL04F8GupeCS3q/view?usp=sharing">Lectures on Dark Matter Cosmology (2021)</a>
 
 **International School on Astroparticle Physics** (ISAPP) at Erwin Schrodinger International Institute for Mathematics and Physics, Vienna, Austria. The topic of the summer school is theories and laboratory tests of dark matter, for advanced graduate students. My lecture topics cover dark matter thermal history and evolution of structure in non-cold dark matter cosmologies.
