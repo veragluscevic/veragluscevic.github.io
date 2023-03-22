@@ -9,7 +9,7 @@ title: the group
 
 <img style="float: left; padding: 15px 15px 15px 15px" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> 
 <br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://veragluscevic.github.io/"> Vera Gluscevic</a>, PI 
-<br>Dr. Gluscevic is a Gabilan Assistant Professor of Physics and Astronomy at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
+<br>**Gabilan Assistant Professor of Physics and Astronomy** at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
 <br>
 <br>
 <br>
@@ -17,8 +17,8 @@ title: the group
 <br>
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/EthanNadler.png" width="35%"/> 
-<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://eonadler.github.io/"> Ethan O. Nadler</a>, Carnegie-USC postdoc
-<br>Dr. Nadler received his PhD from Stanford. He is an expert on zoom-in simulations in non-cold dark matter cosmologies, near-field cosmology, and galaxy formation and evolution.
+<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://eonadler.github.io/"> Ethan O. Nadler</a>
+<br>Carnegie-USC postdoc. He received his PhD from Stanford and his undergraduate degree from UC Santa Barbara. Dr. Nadler is an expert on zoom-in simulations in non-cold dark matter cosmologies, near-field cosmology, and galaxy formation and evolution.
 <br>
 <br>
 <br>
@@ -28,8 +28,8 @@ title: the group
 <br>
 
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/RuiAn.png" width="35%"/> 
-<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href=""> Rui An</a>, postdoc
-<br>Dr. An received her PhD from the University of Shanghai. Her work focuses on cosmological probes of new physics, combining inference using the CMB and large scale structure data, and cosmological simulations.  
+<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href=""> Rui An</a>
+<br>Postdoc. She received her PhD and her undergraduate degree from the University of Shanghai. Dr. An's work focuses on cosmological probes of new physics, combining inference using the CMB and large scale structure data, and cosmological simulations.  
 <br>
 <br>
 <br>
@@ -39,8 +39,8 @@ title: the group
 <br>
   
 <img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/GeorgeDriskell.png" width="35%"/> 
-<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href=""> George (Trey) Driskell</a>, PhD student
-<br>Trey's thesis focuses on cosmological consequences of interacting dark matter on 21-cm signal and galaxy formation.
+<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href=""> George (Trey) Driskell</a>
+<br>PhD student. Trey's thesis focuses on cosmological consequences of interacting dark matter on 21-cm signal and galaxy formation.
 <br>
 <br>
 <br>
@@ -50,8 +50,8 @@ title: the group
 <br>
    
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/AdamHe.png" width="35%"/> 
-<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href="">Adam He</a>, PhD student
-<br>Adam is using the effective theory of structure formation to probe new physics with large scale structure.
+<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href="">Adam He</a>
+<br>PhD student. Adam is using the effective theory of structure formation to probe new physics with large scale structure.
 <br>
 <br>
 <br>
@@ -61,8 +61,8 @@ title: the group
 <br>
   
 <img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/WendyCrumrine.png" width="35%"/> 
-<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href=""> Wendy Crumrine</a>, PhD student
-<br>Wendy is using Milky Way satellite abundance measurements to test dark matter scattering with neutrinos and photons. 
+<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href=""> Wendy Crumrine</a>
+<br>PhD student. Wendy is using Milky Way satellite abundance measurements to test dark matter scattering with neutrinos and photons. 
 <br>
 <br>
 <br>
@@ -72,8 +72,8 @@ title: the group
 <br>
   
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/AryanRahimieh.png" width="35%"/> 
-<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href="">Aryan Rahimieh</a>, PhD student
-<br>Aryan worka on forecasting sensitivity of future experiments to disentangle astrophysical parameters from signatures of new physics.
+<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href="">Aryan Rahimieh</a>
+<br>PhD student. Aryan works on forecasting sensitivity of future experiments to disentangle astrophysical parameters from signatures of new physics.
 <br>
 <br>
 <br>
@@ -83,8 +83,8 @@ title: the group
 <br>
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Karime.png" width="35%"/> 
-<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://karimemaamari.com/"> Karime Maamari</a>, PhD student
-<br>Karime derived the most stringent astrophysical bounds to-date on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES. He now works on developing the first galaxy formation simulations that include dark matter-proton elastic scattering.
+<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://karimemaamari.com/"> Karime Maamari</a>
+<br>PhD student. Karime works on astrophysical bounds on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES. He is now developing the first galaxy formation simulations that include dark matter-proton elastic scattering.
 <br>
 <br>
 <br>
