@@ -8,7 +8,7 @@ title: Courses taught
 ---
 
 <img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Astro.png" width="30%"/> 
-<a href="https://classes.usc.edu/term-20223/classes/astr/">Advanced Cosmology: ASTR 540 (Spring 2022)</a>
+<a href="https://classes.usc.edu/term-20223/classes/astr/">Advanced Cosmology: ASTR 540 (Fall 2022)</a>
   
 An advanced cosmology course for beginning graduate students and advanced astrophysics majors at USC. The objective of the course is to equip students with the conceptual vocabulary and technical skills to engage with the specialized literature and research in the field. The course gives a brief overview of a homogenous universe and then transitions to a deep dive into advanced topics in physical cosmology, focusing on cosmological perturbation theory, inflation, structure formation, cosmic microwave background anisotropy, gravitational lensing, dark matter, dark energy, and
 the thermal history of the universe. With a mix of traditional lectures, in-class group exercises, and student presentations, it balances theoretical aspects of modern cosmology with their practical application to data. 
@@ -22,7 +22,7 @@ An upper-division undergraduate introduction to cosmology for astrophysics and p
 <br>
 <br>
 
-<img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Galaxy.png" width="30%"/> 
+<img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/sphere.jpg" width="30%"/> 
 <a href="https://classes.usc.edu/term-20221/classes/astr/">The Universe: ASTR 100 (Sring 2021, Fall 2021, Spring 2022)</a>
   
 A general-education course in Astronomy, for non-majors. This course touches on questions as old as humankind: “How old is the universe?”, “What is it made of?”, and “What is our place in it?”. The lectures begin with an overview of our Solar System, touch on the diverse lives of stars and galaxies, and go all the way to the farthest reaches of space and time, unveiling the physics underlying astronomical phenomena. The course is designed for students with no background in the sciences and mathematics and the accompanying labs offer a gentle introduction to calculations that help illustrate key concepts from the lectures. The class mixes traditional lectures with think-pair-share exercises and discussion sessions. A key goal of the course to inspire, practice, and sharpen scientific thought on an awe-inspiring journey through the universe.
