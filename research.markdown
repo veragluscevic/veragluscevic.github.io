@@ -8,21 +8,9 @@ title: Research
 ---
 
 <p style="margin-bottom: 35px">
-As a cosmologist, I study the entire Universe as a physical system. In particular, I combine the tools of theoretical astrophysics, particle physics, and astronomical data analysis in order to probe dark matter, dark energy, and various processes that shaped the Universe before the time of the first stars. My research often involves coming up with new ways of using observations spanning the entire cosmic history---from the cosmic microwave background radiation to populations of dwarf galaxies around the Milky Way---in order to test the fundamental fabric of nature. Below are some research highlights; a number of them are done by students under my supervision.
-</p>
-<p style="margin-bottom: 35px">
-I'm a member of three science collaborations focused on precision measurements of the CMB: Simons Observatory, CMB-S4 and ACTPol. I also collaborate with the LSST Dark Matter group and have co-led the Likelihood and Theory analysis group for the Simons Observatory. I have previously served on the Science Council for CMB-S4 and have led the Dark Matter working group for the collaboration.
+Gluscevic group at USC studies the entire Universe as a physical system. We combine the tools of theoretical astroparticle physics, numerical simulation, and astronomical data analysis, and put to use observations that span the entire cosmic history---from the cosmic microwave background radiation to dwarf galaxies in orbit around the Milky Way---to test the fundamental fabric of nature. Our effort aims at understanding one of the biggest mysteries of modern science: the nature of cosmological dark matter and dark energy and the processes that shaped the Universe before the time of the first stars. Below are our recent research highlights.
 </p>
 
-<b>Prospective Graduate Students:
-
-If you are interested in applying to USC please take a look at the <a href="https://dornsife.usc.edu/physics/graduate-admissions/"> departmental web page </a> for application instructions and deadlines.
-
-
-<b>Prospective Post Docs
-
-Please contact me directly if you are interested in a postdoc position.
-<p>
 
 <b><a href="https://arxiv.org/abs/1904.10000"> Probing dark matter with the smallest galaxies </a> </b>
 
