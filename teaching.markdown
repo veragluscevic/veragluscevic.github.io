@@ -8,20 +8,19 @@ title: Courses taught
 ---
 
 <img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Astro.png" width="30%"/> 
-<a href="https://veragluscevic.github.io/">Advanced Cosmology: ASTR 540 (Spring 2022)</a>
+<a href="https://classes.usc.edu/term-20223/classes/astr/">Advanced Cosmology: ASTR 540 (Spring 2022)</a>
   
 An advanced cosmology course for beginning graduate students and advanced astrophysics majors. The objective of the course is to equip students with the conceptual vocabulary and technical skills to engage with the specialized literature and research in the field. The course gives a brief overview of a homogenous universe and then transitions to a deep dive into advanced topics in physical cosmology, focusing on cosmological perturbation theory, inflation, structure formation, cosmic microwave background anisotropy, gravitational lensing, dark matter, dark energy, and
 the thermal history of the universe. With a mix of traditional lectures, in-class group exercises, and student presentations, it balances theoretical aspects of modern cosmology with their practical application to data. 
 <br>
 <br>
 
-
-
-![Galaxy]({{veragluscevic.github.io}}/assets/img/Galaxy.png){:width="50%"}
-<p>
-Cosmology ASTR 424 (spring 2020): upper-division undergraduate course on cosmology.
-</p>
-Astro 424 is an upper-level undergraduate introduction to cosmology for astrophysics and physics majors at USC. The course discusses the standard big bang theory of the universe and introduces the current theory for the origin and growth of large-scale structure. The course talks about basic equations describing the universe, the expansion and age of the universe, dark matter and dark energy, the thermal history of the universe, the origin of the light elements, the cosmic microwave background, the growth of density perturbations and cosmological inflation. Emphasis is placed on comparison of theory with observations.
+<img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Galaxy.png" width="30%"/> 
+<a href="https://classes.usc.edu/term-20203/classes/astr/">Cosmology: ASTR 424 (Spring 2020)</a>
+  
+An upper-division undergraduate introduction to cosmology for astrophysics and physics majors at USC. The course introduces the standard Big Bang theory and discusses the evolution and expansion of a homogenous universe, motivating classical derivation of the Friedmann and continuity equations and their application. Through lectures and in-class discussions and problem solving, the course aims to provide the foundational knowledge in modern physical cosmology.
+<br>
+<br>
 
 ![eye]({{veragluscevic.github.io}}/assets/img/eye.png){:width="50%"}
 <p>
