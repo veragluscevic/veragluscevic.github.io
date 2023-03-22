@@ -94,7 +94,7 @@ title: The team
 <br>
 
   
-### Interested in joining the team? ###
+### Interested in joining the team? 
 <p style="font-weight:bold; color:black;">
 If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc, and want to know more about potential research opportunities, send an email to <b>vera.gluscevic [at] usc.edu.
 
@@ -102,16 +102,15 @@ If you are a USC undergraduate student, a prospective PhD student, or a prospect
 <br>
 <br>
 
-<p style="font-weight:bold; color:black;">
-  Former members:
+**Former members:**
 
   <br>
 <br>
 <br>
 
-
-<a href="https://www.linkedin.com/in/resherle-verna-m-s-96945898//"> Resherle Verna </a> (post-bacc student and former USC masters student, class of 2020, GEM fellow; continued on to PhD at UT Austin).
-
+<p>
+Resherle Verna (post-bacc student and former USC masters student, class of 2020, GEM fellow; continued on to PhD at UT Austin).
+</p>
 <p>
 Dimple Sarnaaik (USC undergrad, class of 2021; continued on to PhD at USC)
 </p>
