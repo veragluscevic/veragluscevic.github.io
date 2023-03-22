@@ -10,7 +10,7 @@ title: Courses taught
 <img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Astro.png" width="30%"/> 
 <a href="https://veragluscevic.github.io/">Advanced Cosmology: ASTR 540 (Spring 2022)</a>
   
-<br>An advanced cosmology course for beginning graduate students and advanced astrophysics majors. The objective of the course is to equip students with the conceptual vocabulary and technical skills to engage with the specialized literature and research in the field. The course gives a brief overview of a homogenous universe and then transitions to a deep dive into advanced topics in physical cosmology, focusing on cosmological perturbation theory, inflation, structure formation, cosmic microwave background anisotropy, gravitational lensing, dark matter, dark energy, and
+An advanced cosmology course for beginning graduate students and advanced astrophysics majors. The objective of the course is to equip students with the conceptual vocabulary and technical skills to engage with the specialized literature and research in the field. The course gives a brief overview of a homogenous universe and then transitions to a deep dive into advanced topics in physical cosmology, focusing on cosmological perturbation theory, inflation, structure formation, cosmic microwave background anisotropy, gravitational lensing, dark matter, dark energy, and
 the thermal history of the universe. With a mix of traditional lectures, in-class group exercises, and student presentations, it balances theoretical aspects of modern cosmology with their practical application to data. 
 <br>
 <br>
