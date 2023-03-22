@@ -95,14 +95,14 @@ title: The team
 
   
 ### Interested in joining the team? ###
-<p>
+<p style="font-weight:bold; color:blue;">
 If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc, and want to know more about potential research opportunities, send an email to <b>vera.gluscevic [at] usc.edu</b>. 
 <\p>
   <br>
 <br>
 <br>
 
-### Former members: ###
+<p style="font-weight:bold; color:black;">Former members:<\p>
   <br>
 <br>
 <br>
