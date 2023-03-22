@@ -8,7 +8,7 @@ title: courses taught
 ---
 
 <img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/dalle-practicum.png" width="30%"/> 
-<a href="https://classes.usc.edu/term-20223/classes/astr/">Physics Discovery Series: PHYS 190 (Fall 2023)</a>
+<a href="https://classes.usc.edu/term-20233/classes/phys/">Physics Discovery Series: PHYS 190 (Fall 2023)</a>
   
 **Lower-division course for physics majors** at USC. This is a re-design of the existing PHYS 190 freshman seminar series, augmented with a programming and data analysis Practicum. Through hands-on collaborative exercises, the Practicum aims to equip new students with basic data and programming fluency, and guide them to unpack the process of scientific inquiry and discovery on concrete research examples presented by our faculty in the Physics Discovery Seminar. The goal of the Practicum is to shift students’ perspective from that of passive observers to practitioners of science and invite them to self-identify as physicists and astronomers.  
 <br>
