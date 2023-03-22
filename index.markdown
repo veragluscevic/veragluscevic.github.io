@@ -14,7 +14,7 @@ Dr. Gluscevic is one of the founding members of two large international collabor
 
 For more information, view Vera Gluscevic's [CV](./CV.pdf) and the department promotional <a href="https://drive.google.com/file/d/1Jyntj8QdarYbdEqVeA790WlFF01VhWi7/view?usp=share_link">interview</a>. 
 
-<a href="https://dornsife.usc.edu/news/stories/3787/faculty-and-staff-excellence-celebrated/"><img class="center" src="{{veragluscevic.github.io}}/assets/img/rauben.jpg" width="70%"/></a>
+<a href="https://dornsife.usc.edu/news/stories/3787/faculty-and-staff-excellence-celebrated/"><img class="center" src="{{veragluscevic.github.io}}/assets/img/rauben.png" width="70%"/></a>
 
 
 
