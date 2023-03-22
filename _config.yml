@@ -22,7 +22,7 @@
 title: Vera Gluscevic
 email: vera.gluscevic@usc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  cosmology, astroparticle physics, CMB, dark matter, probabilistic inference, cosmological simulations
+  cosmology, astroparticle physics, dark matter, probabilistic inference, cosmological simulations
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -46,15 +46,15 @@ plugins:
 accent_color: rgb(0,0,0)
 
 menu:
-  - title: The group
+  - title: the group
     url:   /gluscevic.html
-  - title: Cosmolab
+  - title: cosmolab
     url:   https://usc-cosmolab.github.io/cosmolab-site-v2/index.html
-  - title: Teaching 
+  - title: teaching 
     url:   /teaching.html
-  - title: Contact 
+  - title: contact 
     url:   /contact.html
-  - title: CV
+  - title: cv
     url:   ./CV.pdf
 
 # Exclude from processing.

@@ -4,7 +4,7 @@
 
 layout: default
 cover:  true
-title: Courses taught
+title: courses taught
 ---
 
 <img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Astro.png" width="30%"/> 

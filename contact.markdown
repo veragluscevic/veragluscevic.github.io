@@ -4,7 +4,7 @@
 
 layout: default
 cover:  true
-title: Contact
+title: contact
 ---
 
 Ahmanson Center Building (ACB)

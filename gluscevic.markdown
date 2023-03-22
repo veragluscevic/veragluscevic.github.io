@@ -4,7 +4,7 @@
 
 layout: default
 cover:  true
-title: The group
+title: the group
 ---
 
 <img style="float: left; padding: 15px 15px 15px 15px" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> 
