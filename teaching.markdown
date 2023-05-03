@@ -36,7 +36,7 @@ the thermal history of the universe. With a mix of traditional lectures, in-clas
 <br>
 <br>
 
-<img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/hack.jpg" width="30%"/> 
+<img style="float: left; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/hack.png" width="30%"/> 
 <a href="https://github.com/usc-cosmolab/hackspace">CosmoLab Hacks (2019-2021)</a>
 
 **Extracurricular weekly tutorials** on data analysis and inference, for USC graduate and undergraduate students interested in starting research in astrophysics and cosmology. CosmoLab Hacks are now taking place a few times a semester, as a part of CosmoLab weekly meetings, and are targeting the use of advanced computational tools for research in cosmology.
