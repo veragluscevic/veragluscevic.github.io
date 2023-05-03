@@ -8,8 +8,9 @@ title: the group
 ---
 
 
-<img style="float: center; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/vg-group.jpg" width="60%"/> 
-
+<img style="float: center; padding: 80px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/vg-group.jpg" width="70%"/> 
+<br>
+<br>
 
 <img style="float: left; padding: 15px 15px 15px 15px" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> 
 <br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://veragluscevic.github.io/"> Vera Gluscevic</a>, PI 
