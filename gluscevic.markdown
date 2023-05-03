@@ -88,7 +88,7 @@ title: the group
 <br>
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Karime.png" width="35%"/> 
-<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://karimemaamari.com/"> Karime Maamari</a>
+<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://karimemaamari.com/"> Karime Maamari</a>, graduate student
 <br>PhD student. Karime works on astrophysical bounds on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES. He is now developing the first galaxy formation simulations that include dark matter-proton elastic scattering. Karime earned his undergraduate degree from USC.
 <br>
 <br>
