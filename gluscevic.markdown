@@ -7,6 +7,10 @@ cover:  true
 title: the group
 ---
 
+
+<img style="float: center; padding: 10px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/vg-group.jpg" width="60%"/> 
+
+
 <img style="float: left; padding: 15px 15px 15px 15px" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> 
 <br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://veragluscevic.github.io/"> Vera Gluscevic</a>, PI 
 <br>**Gabilan Assistant Professor of Physics and Astronomy** at the University of Southern California. She was previously an Eric Schmidt Fellow at the Institute for Advanced Study in Princeton. She received her PhD in Astrophysics at Caltech, and her undergraduate degree in Astrophysics, at the University of Belgrade, Serbia. Professor Gluscevic's research focuses on using cosmological and astrophysical probes to unveil fundamental physics that governs our universe.
