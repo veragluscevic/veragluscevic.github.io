@@ -78,7 +78,7 @@ title: the group
   
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/AryanRahimieh.png" width="35%"/> 
 <br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href="">Aryan Rahimieh</a>, graduate student
-<br>Aryan works on forecasting sensitivity of future experiments to disentangle astrophysical parameters from signatures of new physics. He earned his undergraduate degree from Tehran University, Iran.
+<br>Aryan works on forecasting sensitivity of future experiments to disentangle astrophysical parameters from signatures of new physics. He earned his undergraduate degree from Sharif University of Technology, Iran.
 <br>
 <br>
 <br>
