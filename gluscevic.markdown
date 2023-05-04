@@ -98,6 +98,17 @@ title: the group
 <br>
 <br>
 
+<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/jimmy.png" width="35%"/> 
+<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://github.com/wen-jams/inviz"> James Wen</a>, undergraduate student
+<br>James is developing interactive sofrware to visualize multi dimensional cosmological likelihood functions.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
   
 ### Interested in joining the team? 
 **If you are a USC undergraduate student, a prospective PhD student, or a prospective postdoc, and want to know more about potential research opportunities, send an email to vera.gluscevic [ at ] usc.edu.**
