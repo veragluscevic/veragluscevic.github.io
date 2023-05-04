@@ -33,8 +33,8 @@ title: the group
 <br>
 
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/RuiAn.png" width="35%"/>
-<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href=""> Rui An</a>, postdoc
-<br> Dr. An's work focuses on cosmological probes of new physics, combining inference using the CMB and large scale structure data, and cosmological simulations. She received her PhD and her undergraduate degree from the University of Shanghai, China. 
+<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://ruian1320.github.io"> Rui An</a>, postdoc
+<br> Dr. An's work focuses on cosmological probes of new physics, combining inference using the CMB and large scale structure data, and cosmological simulations. She received her PhD from Shanghai Jiao Tong University, China, and her undergraduate degree from Hubei University, China. 
 <br>
 <br>
 <br>
