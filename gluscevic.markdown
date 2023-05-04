@@ -66,7 +66,7 @@ title: the group
 <br>
   
 <img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/WendyCrumrine.png" width="35%"/> 
-<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href=""> Wendy Crumrine</a>, graduate student
+<br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://wcrumrine.github.io"> Wendy Crumrine</a>, graduate student
 <br>Wendy is using Milky Way satellite abundance measurements to test dark matter scattering with neutrinos and photons. She earned her undergraduate degree from Harvard and her master's from San Francisco State University.
 <br>
 <br>
@@ -89,7 +89,7 @@ title: the group
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/Karime.png" width="35%"/> 
 <br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://karimemaamari.com/"> Karime Maamari</a>, graduate student
-<br>PhD student. Karime works on astrophysical bounds on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES. He is now developing the first galaxy formation simulations that include dark matter-proton elastic scattering. Karime earned his undergraduate degree from USC.
+<br>Karime works on astrophysical bounds on dark matter-baryon scattering, using Milky Way satellite abundance measurements from DES. He is now developing the first galaxy formation simulations that include dark matter-proton elastic scattering. Karime earned his undergraduate degree from USC.
 <br>
 <br>
 <br>
