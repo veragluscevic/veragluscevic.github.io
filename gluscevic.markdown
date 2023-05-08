@@ -55,7 +55,7 @@ title: the group
 <br>
    
 <img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/AdamHe.png" width="35%"/> 
-<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href="">Adam He</a>, graduate student
+<br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://ash2223.github.io">Adam He</a>, graduate student
 <br>Adam is using the effective theory of structure formation to probe new physics with large scale structure. Adam graduated from Columbia University.
 <br>
 <br>
