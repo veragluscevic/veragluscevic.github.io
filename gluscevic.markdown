@@ -59,7 +59,7 @@ title: the group
 
 
 
-<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/jimmy.png" width="35%"/> 
+<img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/jimmy.png" width="35%"/> 
 <br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://github.com/wen-jams/inviz"> James Wen</a>, graduate student
 <br>James is developing simulations of the Milky Way within interacting dark matter cosmologies. James earned his undergraduate degree at USC.
 <br>
@@ -81,7 +81,7 @@ title: the group
 <br>
 <br>
 
-<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/JeissonPulido.png" width="35%"/> 
+<img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/JeissonPulido.png" width="35%"/> 
 <br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://jeissonpulido.github.io//"> Jeisson Pulido Calderon</a>, graduate student and NSF Fellow
 <br>Jeisson is using semi-analytic models and JWST observations to understand astrophysics and dark matter physics governing the first galaxies. Jeisson earned her undergraduate degree from Cal State Dominguez Hills.
 <br>
@@ -120,6 +120,9 @@ Trey Driskell (PhD 2025).
 </p>
 <p>
 Resherle Verna (post-bacc student and former USC masters student, class of 2020, GEM fellow; continued on to PhD at UT Austin).
+</p>
+<p>
+Karime Maamari (USC undergrad, class of 2022).
 </p>
 <p>
 Dimple Sarnaaik (USC undergrad, class of 2021; continued on to PhD at USC)
