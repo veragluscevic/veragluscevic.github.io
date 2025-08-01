@@ -46,7 +46,7 @@ title: the group
 <br>
 <br>
 
-<img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/JeissonPulido.jpeg" width="35%"/> 
+<img style="float: right; padding: 10px 10px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/JeissonPulido.png" width="35%"/> 
 <br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://jeissonpulido.github.io//"> Jeisson Pulido Calderon</a>, graduate student and NSF Fellow
 <br>Jeisson is using semi-analytic models and JWST observations to understand astrophysics and dark matter physics governing the first galaxies. Jeisson earned her undergraduate degree from Cal State Dominguez Hills.
 <br>
@@ -57,7 +57,7 @@ title: the group
 <br>
 <br>
   
-<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/ArifChu.jpeg" width="35%"/> 
+<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/ArifChu.png" width="35%"/> 
 <br> <a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://www.linkedin.com/in/arif-chu-133560195/">Arif Chu</a>, graduate student
 <br>Arif works on reconstructing matter power spectrum on small scales, using numerical simulations and galaxy survey data. He earned his undergraduate degree from the University of Washington, Seattle.
 <br>
@@ -81,7 +81,7 @@ title: the group
 <br>
 <br>
 
-<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/SashaMintz.jpeg" width="35%"/> 
+<img style="float: left; padding: 15px 15px 15px 15px;" src="{{veragluscevic.github.io}}/assets/img/SashaMintz.png" width="35%"/> 
 <br><a style="font-family:sans-serif; font-weight:bold; color:blue;" href="https://www.sasha-mintz.com/"> Sasha Mintz</a>, USC-Carnegie graduate student and NSF Fellow
 <br>Sasha is measuring dark matter content in ultra faint dwarf galaxies in order to constrain particle properties of dark matter. Sasha earned her undergraduate degree from Virginia Tech.
 <br>
