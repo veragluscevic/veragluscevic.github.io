@@ -8,8 +8,8 @@ title: the group
 ---
 
 
-<img style="float: center; padding: 80px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/vg-group.jpg" width="70%"/> 
-<br>
+<img style="float: center; padding: 80px 30px 10px 10px;" src="{{veragluscevic.github.io}}/assets/img/vg-group-2022.jpg" width="70%"/> 
+<br>Gluscevic group, circa 2022.
 <br>
 
 <img style="float: left; padding: 15px 15px 15px 15px" src="{{veragluscevic.github.io}}/assets/img/Vera.png" width="35%"/> 
